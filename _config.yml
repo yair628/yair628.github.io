@@ -39,6 +39,7 @@ header_pages:
   - group.md
   - about.md
   - research.md
+  - fancy.md
 
 highlighter: rouge
 markdown: kramdown
