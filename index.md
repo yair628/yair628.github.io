@@ -1,4 +1,4 @@
-# Yair Mau
+![image](/images/site-logo-official-150px.png){: style="float: left"}
 
 **Senior Lecturer** [Assistant Professor]  
 The Department of **Soil and Water Sciences**  
