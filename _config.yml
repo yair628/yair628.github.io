@@ -51,4 +51,4 @@ kramdown:
   syntax_highlighter: rouge
 
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-masthead: /site-logo-official-50px.png
+masthead: /images/site-logo-official-50px.png
