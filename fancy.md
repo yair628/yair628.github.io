@@ -1,4 +1,4 @@
-# This is the title
+# Fancy
 
 Here's the table of contents:
 
