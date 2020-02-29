@@ -40,7 +40,7 @@ header_pages:
   - group.md
   - publications.md
   - about.md
-  - research.md
+  - research/index.md
   - fancy.md
 
 highlighter: rouge
