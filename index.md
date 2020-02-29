@@ -1,7 +1,44 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Yair Mau
 
-![Image of fast.ai logo](images/logo.png)
+**Senior Lecturer** [Assistant Professor]  
+The Department of **Soil and Water Sciences**  
+Robert H. Smith **Faculty of Agriculture, Food and Environment**  
+**The Hebrew University of Jerusalem**
 
-## This is a title
+## About
+I'm interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
+Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+The common theme between my different research projects is land/ecosystem degradation caused by human activity.
+
+
+Our research is based on "simple" mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system.
+Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory.
+
+
+\[[Read more on current research projects...](/research/)\]
+
+I love to write code, and I made available on the [Tutorials](/tutorials/) page some working examples in Python and LaTeX. Check it out!
+
+## How to find me
+<i class="fas fa-envelope fa-fw fa-lg svv" aria-hidden="true"></i> <span>&ensp;</span> <kbd>yair.mau at mail.huji.ac.il</kbd>  
+<!-- <i class="material-icons svv">phone</i> -->
+<i class="fas fa-phone fa-fw fa-lg svv fa-flip-horizontal" aria-hidden="true"></i>
+<span>&ensp;</span> +972 8 948 9386  
+<i class="fas fa-map-marked-alt fa-fw fa-lg svv"></i> <span>&ensp;</span> Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
+
+{{< button href="/cv_yairmau.pdf" >}}Check out my CV{{< /button >}}
+{{< button href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" >}}Google scholar profile{{< /button >}}
+<!-- <p style="text-align: center;"> -->
+<!-- <a href="/cv_yairmau.pdf" class="button" target="_blank">Check out my CV</a> -->
+<!-- <a href="https://huji.academia.edu/YairMau" class="button" target="_blank">Academia.edu profile</a> -->
+<a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button" target="_blank"><!-- Google scholar profile --></a>
+</p>
+
+-----
+**Piet Hein**  
+<i class="fas fa-quote-left fa-4x fa-pull-left fa-border" aria-hidden="true"></i>
+Problems worthy  
+&emsp;&emsp;of attack  
+prove their worth  
+&emsp;&emsp;by hitting back.  
