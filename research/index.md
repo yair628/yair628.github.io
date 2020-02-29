@@ -3,10 +3,6 @@ layout: page
 title: Research
 ---
 
-<!-- # <i class="fas fa-search fa-fw fa-lg"></i> Research -->
-
-<div class="alert alert-success" role="alert"><i class="fa fa-download fa-lg"></i> This is a special tip about some file to download....</div>
-
 ## <i class="fas fa-hiking fa-fw fa-lg"></i> Interests
 
 I'm interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
