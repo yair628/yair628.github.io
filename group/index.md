@@ -1,3 +1,8 @@
+---
+layout: page
+title: Group
+---
+
 {{< columns >}}
 <img src="/images/yair-350x350.jpg" alt="yair" style="border-radius: 20%;"/>
 <--->
