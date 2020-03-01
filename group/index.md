@@ -5,31 +5,20 @@ title: Group
 
 ### Yair Mau, Principal Investigator  
 <img src="/images/yair-350x350.jpg" alt="yair" width="300" align="left" style="border-radius: 20%;"/><br CLEAR="all">
-
+----
 
 ### Isaac Kramer, PhD student  
 <img src="/images/isaac-500px.jpg" alt="isaac" width="310" align="left" style="border-radius: 20%;"/><br CLEAR="all">
-
+----
 
 ### Avi Gross, MSc student  
 <img src="/images/avi-500px.jpg" alt="isaac" width="320" align="left" style="border-radius: 20%;"/><br CLEAR="all">
-
+----
 
 ### Avigail Kaner, Research Specialist  
 <img src="/images/avigail-500px.jpg" alt="avigail" width="350" align="left" style="border-radius: 20%;"/><br CLEAR="all">
+----
 
-
-
-
-
-<div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
-</div>
-<div style="display:inline-block;vertical-align: middle;">
-  sample text
-</div>
-
----------
 ## Group Pictures
 
 ### 2019-01-10, Yatir Forest
