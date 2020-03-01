@@ -19,7 +19,7 @@ Some of the tools we use in the modeling of environmental questions come from dy
 I love to write code, and I made available on the [Tutorials](/tutorials/) page some working examples in Python and LaTeX. Check it out!
 
 ## How to find me
-<i class="fas fa-envelope fa-fw fa-lg svv" aria-hidden="true"></i> <span>&ensp;</span> <kbd>yair.mau at mail.huji.ac.il</kbd> `yair.mau at mail.huji.ac.il`   
+<i class="fas fa-envelope fa-fw fa-lg svv" aria-hidden="true"></i> <span>&ensp;</span> `yair.mau at mail.huji.ac.il`   
 <!-- <i class="material-icons svv">phone</i> -->
 <i class="fas fa-phone fa-fw fa-lg svv fa-flip-horizontal" aria-hidden="true"></i>
 <span>&ensp;</span> +972 8 948 9386  
@@ -35,7 +35,8 @@ I love to write code, and I made available on the [Tutorials](/tutorials/) page 
 <a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button" target="_blank"><!-- Google scholar profile --></a>
 </p>
 
------
+----
+
 **Piet Hein**  
 <i class="fas fa-quote-left fa-4x fa-pull-left fa-border" aria-hidden="true"></i>
 Problems worthy  
