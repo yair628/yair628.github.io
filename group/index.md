@@ -3,7 +3,7 @@ layout: page
 title: Group
 ---
 
-<img src="/images/yair-350x350.jpg" alt="yair" style="border-radius: 20%;"/>
+<img src="/yair-350x350.jpg" alt="yair" style="border-radius: 20%;"/>
 ## Yair Mau, PI
 
 
