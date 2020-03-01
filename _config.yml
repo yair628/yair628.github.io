@@ -41,6 +41,8 @@ header_pages:
   - publications/index.md
   - research/index.md
 
+show_posts: false
+
 highlighter: rouge
 markdown: kramdown
 kramdown:
