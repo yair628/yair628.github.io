@@ -3,17 +3,16 @@ layout: page
 title: Group
 ---
 
-<img src="/yair-350x350.jpg" alt="yair" style="border-radius: 20%;"/>
-## Yair Mau, PI
+## Yair Mau, Principal Investigator
+<img src="/images/yair-350x350.jpg" alt="yair" width="80" style="border-radius: 20%;"/>
 
-
-<img src="/images/isaac-500px.jpg" alt="isaac" style="border-radius: 20%;"/>
+<img src="/images/isaac-500px.jpg" alt="isaac" width="90" style="border-radius: 20%;"/>
 ## Isaac Kramer, PhD student
 
-<img src="/images/avi-500px.jpg" alt="isaac" style="border-radius: 20%;"/>
+<img src="/images/avi-500px.jpg" alt="isaac" width="100" style="border-radius: 20%;"/>
 ## Avi Gross, MSc student
 
-<img src="/images/avigail-500px.jpg" alt="avigail" style="border-radius: 20%;"/>
+<img src="/images/avigail-500px.jpg" alt="avigail" width="120" style="border-radius: 20%;"/>
 ## Avigail Kaner, Research Specialist
 
 
