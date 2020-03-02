@@ -1,5 +1,6 @@
 ---
-layout: page-no-title
+layout: page-icon-title
+icon: <i class="fas fa-file-alt fa-fw fa-lg"></i>
 title: Publications
 ---
 
