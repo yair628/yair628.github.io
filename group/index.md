@@ -1,5 +1,5 @@
 ---
-layout: page-icon-title
+layout: page-no-title
 title: Group
 ---
 
