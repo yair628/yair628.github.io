@@ -6,7 +6,12 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     {%- if site.masthead -%}
-    <a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" />{{ site.title | escape }}</a>
+    <a href="{{ "/" | relative_url }}">
+      <div>
+        <img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" style="vertical-align: middle;" height="20px" />
+        <span style="vertical-align: middle;">{{ site.title | escape }}</span>
+      </div>
+    </a>
     {%- else -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- endif -%}
