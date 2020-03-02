@@ -1,9 +1,9 @@
 ---
-layout: page-no-title
+layout: page-icon-title
+icon: >
+    <i class="fas fa-search fa-fw fa-lg"></i>
 title: Research
 ---
-
-# <i class="fas fa-search fa-fw fa-lg"></i> Research
 
 ## <i class="fas fa-hiking fa-fw fa-lg"></i> Interests
 
