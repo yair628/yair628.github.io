@@ -11,7 +11,7 @@ title: More
 
 ## <i class="fas fa-quote-left fa-fw svv" aria-hidden="true"></i> [Quotes](/more/quotes/)
 
-## <i class="fas fa-camera fa-fw svv" aria-hidden="true"></i> [Photos](/more/photos/)
+## <i class="fas fa-chalkboard fa-fw svv" aria-hidden="true"></i> [Teaching](/more/teaching/)
 
 ## <i class="fas fa-microphone-alt fa-fw svv"></i> [Science Communication](/more/communication/)
 
