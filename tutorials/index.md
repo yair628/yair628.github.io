@@ -9,10 +9,4 @@ title: Tutorials
 
 ## <i class="fab fa-python fa-fw fa-lg fa-notbold svv"></i> [Python tutorial](/tutorials/python/)
 
-
-## $\,\,\rightarrow$ [$\LaTeX$ tutorial](/tutorials/latex/)
-
-
-## $\rightarrow$ [$\LaTeX$ tutorial](/tutorials/latex/)
-
-## $\longrightarrow$ [$\LaTeX$ tutorial](/tutorials/latex/)
+## $\,\rightarrow\,$ [$\LaTeX$ tutorial](/tutorials/latex/)
