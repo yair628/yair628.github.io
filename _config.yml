@@ -37,9 +37,13 @@ titles_from_headings:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - group/index.md
-  - publications/index.md
   - research/index.md
+  - publications/index.md
+  - group/index.md
+  - tutorials/index.md
+  - more/index.md
+  - hebrew/index.md
+
 
 show_posts: false
 
