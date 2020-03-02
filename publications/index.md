@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: page-no-title
 title: Publications
 ---
+
+<header class="post-header">
+  <h1 class="post-title" style="text-align:center"><i class="fas fa-file-alt fa-fw fa-lg"></i>{{ page.title | escape }}</h1>
+</header>
 
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau** and Amilcare Porporato. Optimal control solutions to sodic soil reclamation. *Advances in Water Resources*, 91:37--45, 2016.  
