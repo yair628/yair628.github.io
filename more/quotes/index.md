@@ -9,14 +9,14 @@ title: Quotes
 </header>
 
 
-> The scientist is not a person who gives the right answers, he’s one who asks the right questions.
-Claude Lévi-Strauss
+* The scientist is not a person who gives the right answers, he’s one who asks the right questions.  
+**Claude Lévi-Strauss**
 
-The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ (I found it!) but ‘That’s funny…’
-Isaac Asimov
+* The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ (I found it!) but ‘That’s funny…’  
+**Isaac Asimov**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
-Jan L. A. van de Snepscheut
+* In theory, there is no difference between theory and practice. But, in practice, there is.  
+**Jan L. A. van de Snepscheut**
 
 Contrary to what Asimov says, the most exciting phrase in science, the one that heralds new discoveries, is not ‘Eureka!’ or ‘That’s funny…,’ it’s ‘Your research grant has been approved.’
 John Alejandro King
