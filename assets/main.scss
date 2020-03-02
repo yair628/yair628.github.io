@@ -69,15 +69,13 @@
   padding-bottom: $spacing-unit / 2;
 }
 
-/**
- * Site header
- */
-.site-header {
-  border-top: 5px solid $brand-color-dark;
-  border-bottom: 1px solid $brand-color-light;
-  min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 2.25;
-
-  // Positioning context for the mobile navigation icon
+.navbar-fixed-top {
   position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 999;
+}
+
+body {
+  padding-top: $spacing-unit * 1.865;
 }
