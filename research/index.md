@@ -1,9 +1,11 @@
 ---
-layout: page-icon-title
-icon: >
-    <i class="fas fa-search fa-fw fa-lg"></i>
+layout: page-no-title
 title: Research
 ---
+
+<header class="post-header">
+    <h1 class="post-title" style="text-align:center"><i class="fas fa-search fa-fw fa-lg"></i>{{ page.title | escape }}</h1>
+</header>
 
 ## <i class="fas fa-hiking fa-fw fa-lg"></i> Interests
 
