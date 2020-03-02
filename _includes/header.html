@@ -5,10 +5,10 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    {%- if site.masthead -%}
+    {%- if site.showlogo -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <div>
-        <img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" style="vertical-align: middle;" height="42" />
+        <img src="{{ site.showlogo | relative_url }}" alt="{{ site.title | escape }}" style="vertical-align: middle;" height="20" />
         <span style="vertical-align: middle;">{{ site.title | escape }}</span>
       </div>
     </a>
