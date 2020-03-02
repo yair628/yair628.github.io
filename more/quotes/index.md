@@ -132,11 +132,11 @@ A slow stupefied silence crept over the men as they stared at the computer and t
 * Art is solving problems that cannot be formulated before they have been solved. The shaping of the question is part of the answer.  
 **Piet Hein**
 
-* Physics is the simplest of all the sciences, and fundamental physics⁠⁠—the study of the basic pieces of reality at the deepest level⁠—is the simplest of all. Not "simple” in the sense that the homework problems are easy, but simple in the sense that Galileo's trick of ignoring friction and air resistance makes our lives easier. The reason why physics classes seem so hard is not because physics is so hard—it's because we understand so much of it that there's a lot to learn, and that's because it's fundamentally pretty simple.
+* Physics is the simplest of all the sciences, and fundamental physics⁠⁠—the study of the basic pieces of reality at the deepest level⁠—is the simplest of all. Not "simple” in the sense that the homework problems are easy, but simple in the sense that Galileo's trick of ignoring friction and air resistance makes our lives easier. The reason why physics classes seem so hard is not because physics is so hard—it's because we understand so much of it that there's a lot to learn, and that's because it's fundamentally pretty simple.  
 **Sean Carroll, The Big Picture**
 
-* Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.
+* Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.  
 **Edsger W. Dijkstra**
 
-* The fundamental role of a teacher is not to deliver information. It is guide the social process of learning. The job of a teacher is to inspire, to challenge, to excite their students to want to learn. Yes, they also do explain and demonstrate and show things, but fundamentally that is beside the point. The most important thing a teacher does is make every student feel like they are important, to make them feel accountable for doing the work of learning.
+* The fundamental role of a teacher is not to deliver information. It is guide the social process of learning. The job of a teacher is to inspire, to challenge, to excite their students to want to learn. Yes, they also do explain and demonstrate and show things, but fundamentally that is beside the point. The most important thing a teacher does is make every student feel like they are important, to make them feel accountable for doing the work of learning.  
 **Derek Alexander Muller, https://youtu.be/GEmuEWjHr5c**
