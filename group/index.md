@@ -1,10 +1,12 @@
 ---
 layout: page-icon-title
-icon: >
-    <i class="fas fa-address-card fa-fw fa-lg">
 title: Group
 ---
 
+<header class="post-header">
+    <h1 class="post-title" style="text-align:center"><i class="fas fa-address-card fa-fw fa-lg">{{ page.title | escape }}</h1>
+</header>
+  
 ### Yair Mau, Principal Investigator  
 <img src="/images/yair-350x350.jpg" alt="yair" width="300" align="left" style="border-radius: 20%;"/><br CLEAR="all">
 
