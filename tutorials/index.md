@@ -1,5 +1,7 @@
 ---
-layout: page-no-title
+layout: page-icon-title
+icon: >
+    <i class="far fa-lightbulb fa-fw fa-lg">
 title: Tutorials
 ---
 
