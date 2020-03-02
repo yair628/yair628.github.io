@@ -48,7 +48,7 @@ By the way, Overleaf has the best LaTeX tutorials out there. [Check it out](http
 "Extract data from plots, images, and maps."
  
 
-## <i class="fas fa-language fa-fw fa-lg svv"></i> LaTeX
+## $\rightarrow\LaTeX$
 
 #### <a href="http://www.doi2bib.org/#/doi" target="_blank">doi2bib</a>  
 "Give us a DOI and we'll do our best to get you the BibTeX entry."
