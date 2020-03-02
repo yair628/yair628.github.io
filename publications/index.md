@@ -1,12 +1,12 @@
 ---
-layout: page-icon-title
+layout: page-no-title
 icon: >
     <i class="fas fa-file-alt fa-fw fa-lg"></i>
 title: Publications
 ---
 
 <header class="post-header">
-  <h1 class="post-title" style="text-align:center"><i class="fas fa-file-alt fa-fw fa-lg"></i>{{ page.title | escape }}</h1>
+  <h1 class="post-title" style="text-align:center">{{ page.icon | escape }}{{ page.title | escape }}</h1>
 </header>
 
 <i class="far fa-file fa-fw fa-lg svv"></i>
