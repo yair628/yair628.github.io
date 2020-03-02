@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: page-no-title
 title: Research
 ---
+
+# <i class="fas fa-search fa-fw fa-lg"></i> Research
 
 ## <i class="fas fa-hiking fa-fw fa-lg"></i> Interests
 
