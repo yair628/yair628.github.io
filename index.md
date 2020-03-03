@@ -3,7 +3,7 @@ layout: page-no-title
 ---
 
 **Senior Lecturer** [Assistant Professor]  
-**The Hebrew University of Jerusalem**
+**The Hebrew University of Jerusalem**  
 The Department of **Soil and Water Sciences**  
 Robert H. Smith **Faculty of Agriculture, Food and Environment**  
 
