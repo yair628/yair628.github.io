@@ -6,17 +6,13 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     {%- if site.showlogo -%}
-    <div>
-      <span style="vertical-align: middle;">
-        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-          {{ site.title | escape }}
-        </a>
-      </span>       
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="text-decoration:none">
+      <div>
+        <span style="vertical-align: middle;">{{ site.title | escape }}</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="{{ site.showlogo | relative_url }}" alt="{{ site.title | escape }}" style="vertical-align: middle;" height="40" />
-      </a>
-    </div>
+      </div>
+    </a>
     {%- else -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- endif -%}
