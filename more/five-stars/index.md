@@ -20,7 +20,7 @@ title: Five-Star Content I Recommend
 * <a href="http://fuckyeahfluiddynamics.tumblr.com/about" target="_blank">Fuck Yeah Fluid Dynamics</a>, by Nicole Sharp.
 
 ## Short stories
-* <a href="http://www.terrybisson.com/page6/page6.html" target="_blank">They're made out of meat</a>, by Terry Bisson.
+* <a href="https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html" target="_blank">They're made out of meat</a>, by Terry Bisson.
 * <a href="http://future-lives.com/wp-content/uploads/2014/09/TheSentinel.pdf" target="_blank">The Sentinel</a>, by Arthur C. Clarke.
 * <a href="https://kwarc.info/teaching/TDM/Borges.pdf" target="_blank">On Exactitude in Science</a>, by Jorge Luis Borges.
 * <a href="https://urbigenous.net/library/power.html" target="_blank">The Feeling Of Power
