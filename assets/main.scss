@@ -60,14 +60,17 @@
 
 .codecell table { width: auto; }
 
-// added by Yair
-.site-masthead {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: $spacing-unit / 2;
-  padding-bottom: $spacing-unit / 2;
-}
+////////////////////////////////////////////////////////
+//                    added by Yair
+
+
+// .site-masthead {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   padding-top: $spacing-unit / 2;
+//   padding-bottom: $spacing-unit / 2;
+// }
 
 // sticky header
 // https://getflywheel.com/layout/create-sticky-website-header-how-to/
@@ -83,6 +86,7 @@
   padding-top: $spacing-unit * 1.865;
 }
 
+// rotating fontawesome icons
 // https://stackoverflow.com/questions/34378940/rotating-a-font-awesome-icon-on-hover/34379054
 .svv:hover {
     animation: fa-spin 2s linear;
@@ -90,10 +94,11 @@
 @-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 @keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 
+// thick line above footer
 $brand-color:           #828282 !default;
 $brand-color-light:     lighten($brand-color, 40%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
 
 .site-footer {
-  border-top: 5px solid $brand-color-dark;
+  border-top: 5px solid #424242;
 }
