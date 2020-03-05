@@ -82,9 +82,14 @@
   background-color: white;
 }
 
-.page, .post .blog {
+.page, .post {
   padding-top: $spacing-unit * 1.865;
 }
+
+.blog {
+  padding-top: $spacing-unit * 1.865;
+}
+
 
 // rotating fontawesome icons
 // https://stackoverflow.com/questions/34378940/rotating-a-font-awesome-icon-on-hover/34379054
