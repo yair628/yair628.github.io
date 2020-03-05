@@ -90,6 +90,11 @@
 @-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 @keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 
+@import 'foundation/code', 'foundation/lists';
+
+@import
+  "minima/_sass/minima/skins/classic.scss";
+
 .site-footer {
   border-top: 5px solid $brand-color-dark;
 }
