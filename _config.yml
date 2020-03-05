@@ -7,8 +7,9 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Yair Mau
-description: Environmental Modeling.
-github_username: yair628
+description: Environmental Modeling
+institution: The Hebrew University of Jerusalem
+# github_username: yair628
 
 # Email and twitter are optional:
 email:
