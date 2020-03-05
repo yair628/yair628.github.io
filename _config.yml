@@ -59,4 +59,4 @@ kramdown:
 # https://github.com/jekyll/minima/issues/264
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: /images/logoBW.png
-showlogo: /images/logoBW.png
+showlogo: /images/site-logo.png
