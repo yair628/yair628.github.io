@@ -31,6 +31,7 @@ I love to write code, and I made available on the [Tutorials](/tutorials/) page 
 <i class="fas fa-map-marked-alt fa-fw fa-lg svv"></i> <span>&ensp;</span> Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
 
 {% include buttons.html url="http://www.google.com" %}  
+[https://scholar.google.com/citations?user=kiKmEQMAAAAJ scholar]
 
 <a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button">scholar</a>
 
