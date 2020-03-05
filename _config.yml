@@ -46,7 +46,7 @@ header_pages:
   - hebrew/index.md
 
 
-show_posts: false
+show_posts: true
 
 highlighter: rouge
 markdown: kramdown
