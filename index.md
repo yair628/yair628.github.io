@@ -30,9 +30,8 @@ I love to write code, and I made available on the [Tutorials](/tutorials/) page 
 <span>&ensp;</span> +972 8 948 9386  
 <i class="fas fa-map-marked-alt fa-fw fa-lg svv"></i> <span>&ensp;</span> Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
 
-{% include buttons.html url="http://www.google.com" %}  
-
-<a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button .btn btn">scholar</a>
+<a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class=".btn">Google Scholar</a>
+<a href="/cv_yairmau.pdf" class="btn">Check out my CV</a>
 
 {{< button href="/cv_yairmau.pdf" >}}Check out my CV{{< /button >}}
 {{< button href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" >}}Google scholar profile{{< /button >}}
