@@ -16,3 +16,5 @@ title: More
 ## <i class="fas fa-microphone-alt fa-fw svv"></i> [Science Communication](/more/communication/)
 
 ## <i class="fas fa-star fa-fw svv" aria-hidden="true"></i> [Five-star Content](/more/five-stars/)
+
+## <i class="fas fa-blog fa-fw svv" aria-hidden="true"></i> [Blog](/more/blog/)
