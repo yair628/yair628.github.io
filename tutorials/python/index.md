@@ -26,7 +26,7 @@ Some useful links for learning python:
 
 
 This might be overwhelming, so I suggest you to follow this:
-{% twitter https://twitter.com/jakevdp/status/906901174728536066 %}
+<!-- {% twitter https://twitter.com/jakevdp/status/906901174728536066 %} -->
 
 Start by downloading <a href="https://www.anaconda.com/distribution/" target="_blank">Anaconda</a>, a package manager application that will help you get started with python in all platforms.
 ​
