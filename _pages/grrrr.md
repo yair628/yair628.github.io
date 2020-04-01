@@ -1,6 +1,6 @@
 ---
 layout: page-no-title
-title: Group
+title: Grrrrr
 ---
 
 <header class="post-header">

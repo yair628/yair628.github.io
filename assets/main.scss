@@ -107,3 +107,17 @@ $brand-color-dark:      darken($brand-color, 25%) !default;
 .site-footer {
   border-top: 5px solid #424242;
 }
+
+.post {
+    font-size: 20px;
+    color: #515151;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}

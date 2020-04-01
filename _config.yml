@@ -11,6 +11,32 @@ description: Environmental Modeling
 institution: The Hebrew University of Jerusalem
 # github_username: yair628
 
+
+# OPTIONAL: override baseurl and url if using a custom domain
+# Note: leave out the trailing / from this value. 
+url: "https://yairmau.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+###########################################################
+#########  Special Instructions for baseurl ###############
+#
+#### Scenario One: If you do not have a Custom Domain #####
+#    -  if you are not using a custom domain, the baseurl *must* be set to your repo name
+# 
+####  Scenario Two: If you have a Custom Domain #####
+# 1. If your domain does NOT have a subpath, this leave this value as ""
+# 2. If your domain does have a subpath, you must preceed the value with a / and NOT have a / at the end.  
+#      For example: 
+#           "" is valid
+#           "/blog"        is valid
+#            "/blog/site/" is invalid  ( / at the end)
+#            "/blog/site"  is valid
+#            "blog/site"   is invalid  ( because doesn't begin with a /)
+#
+# 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
+#
+baseurl: "" # the subpath of your site, e.g. "/blog".
+
+
 # Email and twitter are optional:
 email:
 twitter_username:
@@ -45,6 +71,9 @@ header_pages:
   - more/index.md
   - hebrew/index.md
 
+# this setting allows you to keep pages organized in the _pages folder
+include:
+  - _pages
 
 show_posts: true
 

@@ -28,6 +28,7 @@ doi: [`10.1016/j.advwatres.2016.02.014`](http://dx.doi.org/10.1016/j.advwatres.2
   journal = {Advances in Water Resources}<br>}
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 Amilcare Porporato, Xue Feng, Stefano Manzoni, **Yair Mau**, Anthony J. Parolari, and Giulia Vico. Ecohydrological modeling in agroecosystems: Examples and challenges. *Water Resources Research*, 51(7):5081--5099, 2015.  
 doi: [`10.1002/2015WR017289`](http://dx.doi.org/10.1002/2015WR017289)  
@@ -51,6 +52,7 @@ Human societies are increasingly altering the water and biogeochemical cycles to
 }
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau** and Amilcare Porporato. A dynamical system approach to soil salinity and sodicity. *Advances in Water Resources*, 83:68--76, 2015.  
 doi: [`10.1016/j.advwatres.2015.05.010`](http://dx.doi.org/10.1016/j.advwatres.2015.05.010)  
@@ -73,7 +75,7 @@ Soil salinity and sodicity impose severe constrains to agriculture, especially i
 }
 </div>
 
-
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau**, Lev Haim, and Ehud Meron. Reversing desertification as a spatial resonance problem. *Physical Review E*, 91(1):012903, 2015.  
 doi: [`10.1103/PhysRevE.91.012903`](http://dx.doi.org/10.1103/PhysRevE.91.012903)  
@@ -97,6 +99,7 @@ An important environmental application of pattern control by periodic spatial fo
 }
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau**, Xue Feng, and Amilcare Porporato. Multiplicative jump processes and applications to leaching of salt and contaminants in the soil. *Physical Review E*, 90(5):052128, 2014.  
 doi: [`10.1103/PhysRevE.90.052128`](http://dx.doi.org/10.1103/PhysRevE.90.052128)  
@@ -120,6 +123,7 @@ We consider simple systems driven multiplicatively by white shot noise, which ap
 }
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 Lev Haim, **Yair Mau**, and Ehud Meron. Spatial forcing of pattern-forming systems that lack inversion symmetry. *Physical Review E*, 90(2):022904, 2014.  
 doi: [`10.1103/PhysRevE.90.022904`](http://dx.doi.org/10.1103/PhysRevE.90.022904)  
@@ -144,7 +148,7 @@ nth of the forcing wavenumber, we delineate commonalities and differences among 
 }
 </div>
 
-
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau**, Lev Haim, Aric Hagberg, and Ehud Meron. Competing resonances in spatially forced pattern-forming systems. *Physical Review E*, 88(3): 032917, 2013.  
 doi: [`10.1103/PhysRevE.88.032917`](http://dx.doi.org/10.1103/PhysRevE.88.032917)  
@@ -168,6 +172,7 @@ Spatial periodic forcing can entrain a pattern-forming system in the same way as
 }
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau**, Aric Hagberg, and Ehud Meron. Spatial periodic forcing can displace patterns it is intended to control. *Physical Review Letters*, 109 (3):034102, 2012.  
 doi: [`10.1103/PhysRevLett.109.034102`](http://dx.doi.org/10.1103/PhysRevLett.109.034102)  
@@ -191,6 +196,7 @@ Spatial periodic forcing of pattern-forming systems is an important, but lightly
 }
 </div>
 
+<br>
 <i class="far fa-file fa-fw fa-lg svv"></i>
 **Yair Mau**, Aric Hagberg, and Ehud Meron. Dual-mode spiral vortices. *Physical Review E*, 80(6):065203, 2009.  
 doi: [`10.1103/physreve.80.065203`](http://dx.doi.org/10.1103/PhysRevE.80.065203)  
