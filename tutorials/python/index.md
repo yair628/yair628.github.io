@@ -25,9 +25,6 @@ Some useful links for learning python:
 * <a href="http://greenteapress.com/thinkpython/html/index.html" target="_blank">Think Python: How to Think Like a Computer Scientist</a>
 
 
-This might be overwhelming, so I suggest you to follow this:
-<!-- {% twitter https://twitter.com/jakevdp/status/906901174728536066 %} -->
-
 Start by downloading <a href="https://www.anaconda.com/distribution/" target="_blank">Anaconda</a>, a package manager application that will help you get started with python in all platforms.
 ​
 Make sure you are acquainted with ipython (interactive python, <a href="https://www.pythonanywhere.com/try-ipython/" target="_blank">try it here</a>), and with <a href="http://jupyter.org/" target="_blank">Jupyter notebook</a>.
