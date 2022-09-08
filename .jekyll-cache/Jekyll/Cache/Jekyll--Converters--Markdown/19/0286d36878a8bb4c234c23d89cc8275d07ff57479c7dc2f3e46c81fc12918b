@@ -1,0 +1,14 @@
+I"µ
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">zelnik2021high</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1371/journal.pcbi.1009427}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1371/journal.pcbi.1009427}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Yuval R. Zelnik and Yair Mau and Moshe Shachak and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{High-integrity human intervention in ecosystems: Tracking self-organization modes}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{PLOS Computational Biology}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{17}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{9}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{e1009427}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

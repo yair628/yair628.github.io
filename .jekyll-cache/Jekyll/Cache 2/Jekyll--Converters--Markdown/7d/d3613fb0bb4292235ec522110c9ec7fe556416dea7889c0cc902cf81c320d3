@@ -1,0 +1,14 @@
+I"{
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kramer2020soil</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1029/2020WR027456}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1029/2020WR027456}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2020}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{56}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{10}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Isaac Kramer and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Soil degradation risks assessed by the SOTE model for salinity and sodicity}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Water Resources Research}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

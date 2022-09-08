@@ -1,0 +1,187 @@
+I"�I<!-- <header class="post-header">
+    <h1 class="post-title" style="text-align:center"><span class="iconify" data-icon="whh:solarsystem" data-inline="false"></span>
+Physics A (extended) - 71031</h1>
+</header> -->
+
+<h2 id="goals">Goals</h2>
+
+<p>This basic Physics course has three main goals:</p>
+<ul>
+  <li>By the end of this course you will be able to look at the world around you and start describing it in a formal (mathematical) language.</li>
+  <li>By the end of this course you will be able to read a graph and tell the story behind it, i.e., you will translate a formal (mathematical) language into regular speech any human can understand.</li>
+  <li>We will get acquainted with the concept of Energy. This, in my humblest opinion, is one of the most important ideas in Science.</li>
+</ul>
+
+<h2 id="patron-saint">Patron saint</h2>
+
+<p>Galileo is undoubtedly our hero in this course. Honorable runners-up: Archimedes and Newton.</p>
+
+<p><img src="/archive/physics/gifs/Galileo-quote.png" alt="" /></p>
+
+<h2 id="lecture-notes-in-hebrew-and-more">Lecture Notes (in hebrew) and more</h2>
+
+<p><strong>Book:</strong>
+I loosely use Halliday &amp; Resnick’s <em>Principles of Physics</em> (11th edtion).<br />
+<strong>Software:</strong>
+I use <a href="http://www.styluslabs.com/">Stylus Labs Write</a> to write my classnotes, it is available for Windows, Mac, Linux, Android, and iOS.<br />
+<strong>Hardware:</strong>
+I use both a Wacom Cintiq 16 and an iPad air.<br />
+<strong>Legend:</strong><br />
+<span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span> lecture notes pdf <br />
+<span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span> lecture notes source (write) svgz<br />
+<span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span> powerpoint<br />
+<span class="iconify" data-icon="simple-icons:jupyter" data-inline="false"></span> widget in jupyter notebook (might take a while to load…)<br />
+<i class="fas fa-images fa-fw fa-lg svv"></i> other materials<br />
+<span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span> animations and gifs</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">subject</th>
+      <th style="text-align: left">lectures</th>
+      <th>other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">basic math</td>
+      <td style="text-align: left"> </td>
+      <td><a href="extra/extra-basic-math"><i class="fas fa-images fa-fw fa-lg svv"></i></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">units</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-00-units.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-00-units.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="extra/extra-units"><i class="fas fa-images fa-fw fa-lg svv"></i></a>   <a href="/teaching/physics71031/gifs/units"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">1d kinematics</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-01-kinematics1d.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-01-kinematics1d.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/lectures/kinematics1d.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a>   <a href="https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Finstantaneous_velocity.ipynb"><span class="iconify" data-icon="simple-icons:jupyter" data-inline="false"></span></a>   <a href="extra/extra-1d-kinematics"><i class="fas fa-images fa-fw fa-lg svv"></i></a>   <a href="/teaching/physics71031/gifs/kinematics"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">vectors</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-02-vectors.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-02-vectors.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">2d kinematics</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-02-kinematics-2d.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-kinematics-2d.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Fmax_range_alpha.ipynb"><span class="iconify" data-icon="simple-icons:jupyter" data-inline="false"></span></a>   <a href="/teaching/physics71031/gifs/kinematics"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">circular motion</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-02-circular-motion.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-02-circular-motion.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/lectures/circular-motion.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a>   <a href="/teaching/physics71031/gifs/kinematics"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Newton’s laws</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-03-newtons-laws.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-03-newtons-laws.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/lectures/newton1and2.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a>   <a href="/archive/physics/lectures/newton3.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a>   <a href="/teaching/physics71031/gifs/newtons-laws"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">work-energy theorem</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-04-work-energy.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-04-work-energy.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="https://mybinder.org/v2/gh/yairmau/website/HEAD?labpath=archive%2Fphysics%2Fwidgets%2Friemann_integral.ipynb"><span class="iconify" data-icon="simple-icons:jupyter" data-inline="false"></span></a>   <a href="/teaching/physics71031/gifs/energy"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">potential energy</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-04-potential-energy-U.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-04-potential-energy-U.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/teaching/physics71031/gifs/energy"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">potential energy diagrams</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-04-potential-energy-diagram.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-04-potential-energy-diagram.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">linear momentum</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-05-linear-momentum.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-05-linear-momentum.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/teaching/physics71031/gifs/linear-momentum"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a>   <a href="extra/extra-momentum"><i class="fas fa-images fa-fw fa-lg svv"></i></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gravitation</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-06-gravitation.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-06-gravitation.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/lectures/earth-moon.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">hydrostatics</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-07-hydrostatics.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>    <a href="/archive/physics/lectures/guide-07-hydrostatics.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/teaching/physics71031/gifs/fluids"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">hydrodynamics</td>
+      <td style="text-align: left"><a href="/archive/physics/lectures/guide-07-hydrodynamics.pdf"><span class="iconify" data-icon="bi:file-earmark-pdf-fill" data-inline="false"></span></a>   <a href="/archive/physics/lectures/guide-07-hydrodynamics.svgz"><span class="iconify" data-icon="teenyicons:svg-outline" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/lectures/hydrodynamics.pptx"><span class="iconify" data-icon="fa-regular:file-powerpoint" data-inline="false"></span></a>   <a href="/teaching/physics71031/gifs/fluids"><span class="iconify" data-icon="teenyicons:gif-outline" data-inline="false"></span></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1b0t98d7-tW82mCmukKrkjHK8gLdNHGRLrD-HxN_luNc/edit#gid=0">Click here</a> for details on all lectures of the 2021-22 academic year.<br />
+Here are other <a href="/teaching/physics71031/gifs/wow">very nice videos</a> not directly related to any specific topic.</p>
+
+<h2 id="some-past-exams-in-hebrew">Some past exams (in hebrew)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Year</th>
+      <th style="text-align: center">Midterm</th>
+      <th style="text-align: center">Moed A</th>
+      <th style="text-align: center">Moed B</th>
+      <th>Moed C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">2021-2022</td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2022-71031-bochan.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2022-71031-bochan-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2022-71031-moed-A.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2022-71031-moed-A-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2022-71031-moed-B.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2022-71031-moed-B-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2020-2021</td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2021-71031-bochan.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2021-71031-bochan-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2021-71031-moed-A.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2021-71031-moed-A-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2021-71031-moed-B.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2021-71031-moed-B-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2019-2020</td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2020-71031-bochan.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2020-71031-bochan-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2020-71031-moed-A.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2020-71031-moed-A-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2020-71031-moed-B.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2020-71031-moed-B-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td><a href="/archive/physics/exams/2020-71031-moed-C.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2020-71031-moed-C-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2018-2019</td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2019-71031-bochan.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2019-71031-bochan-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2019-71031-moed-A.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2019-71031-moed-A-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2019-71031-moed-B.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2019-71031-moed-B-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2017-2018</td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2018-71031-bochan.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2018-71031-bochan-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2018-71031-moed-A.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2018-71031-moed-A-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td style="text-align: center"><a href="/archive/physics/exams/2018-71031-moed-B.pdf"><span class="iconify" data-icon="bi:question-square-fill" data-inline="false"></span></a>   <a href="/archive/physics/exams/2018-71031-moed-B-solution.pdf"><span class="iconify" data-icon="bi:exclamation-square" data-inline="false"></span></a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="extra-stuff">Extra stuff</h2>
+
+<p><a href="/teaching/physics71031/gifs/cartoons">Physics cartoons</a></p>
+
+<p>Great online Physics resources:</p>
+<ul>
+  <li><a href="https://www.khanacademy.org/science/physics">Khan Academy - English</a></li>
+  <li><a href="http://www.hebrewkhan.org/#physics">Khan Academy - עברית</a></li>
+  <li><a href="https://www.youtube.com/c/MichelvanBiezen/playlists">Michel van Biezen</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e">Walter Lewin’s 8.01x - MIT Physics I: Classical Mechanics</a></li>
+  <li><a href="https://phet.colorado.edu/en/simulations/filter?subjects=motion,work-energy-and-power&amp;type=html&amp;sort=alpha&amp;view=grid">PhET: fun, free, interactive, research-based science and mathematics simulations</a></li>
+</ul>
+
+<p><a href="https://huji.zoom.us/my/yairmau">link for zoom meetings</a></p>
+:ET

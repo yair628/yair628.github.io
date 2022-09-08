@@ -1,0 +1,92 @@
+I"<h2 id="basic-units-and-prefixes">basic units and prefixes</h2>
+
+<p>Units for three SI base quantities</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Quantity</th>
+      <th>Unit Name</th>
+      <th>Unit Symbol</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Length [L]</td>
+      <td>meter</td>
+      <td>m</td>
+    </tr>
+    <tr>
+      <td>Time [T]</td>
+      <td>second</td>
+      <td>s</td>
+    </tr>
+    <tr>
+      <td>Mass [M]</td>
+      <td>kilogram</td>
+      <td>kg</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Some prefixes for SI Units that you <strong>must</strong> remember!</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Factor</th>
+      <th>Prefix</th>
+      <th>Symbol</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$10^9$</td>
+      <td>giga-</td>
+      <td>G</td>
+    </tr>
+    <tr>
+      <td>$10^6$</td>
+      <td>mega-</td>
+      <td>M</td>
+    </tr>
+    <tr>
+      <td>$10^3$</td>
+      <td>kilo-</td>
+      <td>k</td>
+    </tr>
+    <tr>
+      <td>$10^{-2}$</td>
+      <td>centi-</td>
+      <td>c</td>
+    </tr>
+    <tr>
+      <td>$10^{-3}$</td>
+      <td>milli-</td>
+      <td>m</td>
+    </tr>
+    <tr>
+      <td>$10^{-6}$</td>
+      <td>micro-</td>
+      <td>$\mu$</td>
+    </tr>
+    <tr>
+      <td>$10^{-9}$</td>
+      <td>nano-</td>
+      <td>n</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="exponent-rules">exponent rules</h2>
+
+<p><img src="/archive/physics/gifs/exponents.png" alt="image" style="width:500px;" /></p>
+
+<h2 id="volume-and-surface-area">volume and surface area</h2>
+
+<p><img src="/archive/physics/gifs/surface_area_to_volume_ratio.png" alt="image" style="width:500px;" /></p>
+
+<h2 id="1-horse-sized-duck-or-100-duck-sized-horses">1 horse-sized duck or 100 duck-sized horses?</h2>
+
+<p><img src="/archive/physics/gifs/duck-horse.png" alt="image" style="width:500px;" /></p>
+:ET

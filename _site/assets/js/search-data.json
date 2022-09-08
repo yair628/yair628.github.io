@@ -1,0 +1,591 @@
+{
+  
+    
+        "post0": {
+            "title": "Doubling Time",
+            "content": "Suppose you have a process that can be described by exponential growth. It could be anything: interests on an investment, the early phases of infection in a pandemic, whatever. . It is often convenient to have an idea how fast is the growth by answering the question: . How long will it take for $x$ to double in size, given a growth of $n$% per year? . The rule of thumb I learned a while back is the following: . Doubling time = $ displaystyle frac{70}{n}$ (in years) . Of course, the time unit could be anything you like, I’ll deal here with years for simplicity’s sake. Specifically, let’s answer the question: . Israel has currently (2021) a population of 9.2 million, and a growth rate of 1.8% per year. How long will it take for the population to double, assuming a fixed growth rate? . The answer is about 39 years (70 divided by 1.8), but why?! . Let’s call $x_0$ the population size now, and the growth rate $n$%. After one year, the population will be . $ displaystyle x_1 = x_0 * left( 1 + frac{n}{100} right) $ . Assume that after $k$ years the population will be double, i.e.: . $ displaystyle x_k = x_0 * left( 1 + frac{n}{100} right)^k = 2x_0. $ . Cancelling $x_0$ we get . $ displaystyle left( 1 + frac{n}{100} right)^k = 2. $ . We now take the natural logarith of both sides: . $ displaystyle k ln left( 1 + frac{n}{100} right) = ln(2). $ . Note that we took $k$ out of the exponent and it now multiplies the logarithm on the left-hand side. Multiplying both sides by 100 yields . $ displaystyle100k ln left( 1 + frac{n}{100} right) = 100 ln(2) simeq 69.3. $ . That surely explains the number 70 in the rule of thumb! Because of the properties of logarithms, we put the number 100 as the exponent of the parenthesis: . $ displaystyle k ln left( 1 + frac{n}{100} right)^{100} = 100 ln(2). $ . We are very close to the end! We now remind ourselves that we learned in Calculus the definition of the exponential function: . $ exp(x) = displaystyle lim_{m rightarrow infty} left( 1 + frac{x}{m} right)^{m}. $ . Because the number 100 is “quite big”, we will approximate the parenthesis inside the logarithm with the exponential function, thus . $ k ln exp(n) = 100 ln(2). $ . The logarithm is the inverse function of the exponential, therefore . $ kn = displaystyle100 ln(2). $ . Finally, solving for $k$, we have . $ k = displaystyle frac{100 ln(2)}{n} simeq frac{70}{n}. $ . We have thus shown that the number of years $k$ it will take for Israel to double it’s population is about $70/n = 70/1.8 = 38.88$ years!! . The exact number, without any approximations, would be . $ k = displaystyle frac{ ln(2)}{ ln(1+n/100)} simeq 38.85. $ . Conclusion: 👍 Very impressive rule of thumb 👍 .",
+            "url": "http://localhost:4000/markdown/2021/11/16/doubling-time.html",
+            "relUrl": "/markdown/2021/11/16/doubling-time.html",
+            "date": " • Nov 16, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "Parabolic Hyperboloid",
+            "content": ". Just like the hyperboloid of one sheet, the Parabolic Hyperboloid is a ruled surface. This means that it can be imagined as the surface one gets by swiping a straight line through space. In the image below, we see that each of the skewers is exactly straight, but together thay make this beautiful curved shape. . . This project is quite easy to make with skewers, see its instructions here. . The equation that defines the surface of the parabolic hyperboloid is . z=Ax2−By2,z = Ax^2 - By^2,z=Ax2−By2, . where both $A$ and $B$ are positive numbers. This website allows us to play with the parameters and see how the surface responds. . In my opinion, a static image can’t convey the beauty of this shape, so I made this gif: . In 2020, Dillon Berger noted on Twitter that the shape of Pringles is a parabolic hyperboloid: . The reason Pringles fit so nicely in a cylindrical tube is because they&#39;re hyperbolic paraboloids plotted over a circular domain pic.twitter.com/BUzjPw7e17 . &mdash; 〈 Berger | Dillon 〉 (@InertialObservr) February 18, 2020 The company took notice of this (mildly) viral tweet, and sent Dillon a box full of parabolic hyperboloids 😁. . Thanks @Pringles, for sending me some of these delicious Hyperbolic Paraboloids! pic.twitter.com/L3WMgqObPM . &mdash; 〈 Berger | Dillon 〉 (@InertialObservr) March 2, 2020 The lesson here is that it’s good to know your math 😜. . .",
+            "url": "http://localhost:4000/markdown/2021/11/13/parabolic-hyperboloid.html",
+            "relUrl": "/markdown/2021/11/13/parabolic-hyperboloid.html",
+            "date": " • Nov 13, 2021"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "Skewer Hyperboloid",
+            "content": ". George Hart is again the hero of this project. Go check out his webpage to see how to build this beautiful shape. All you need to make the skewer hyperboloid is a bunch of skewers and thin elastic bands. . This is an easy project, and the end result is so fun to play with! It is surprising how smoothly this shape morphes when you pull and push the skewers to change the angle, it’s hard to explain, so you should definitely try it yourself 😁. See Annie Perkins’s video to get a better idea: . The one thing I can add to George Hart’s page is that after many weeks and months the elastic bands will dry out and break! I gave a skewer hyperboloid to a friend, and one day he arrived at his office and found out that the whole thing had disintegrated overnight, and the skewers were all over the place. I’m still looking for a suitable substitute to the elastic bands. It must be something flexible that enables us to play with the construction, and at the same time something durable… I have not found yet the perfect material, if you have a suggestion please write to me. . I wanted my hyperboloid to last for a long time, so after the construction was done, I used super glue to fix the skewers in a particular angle. Now I can’t play with it, but at least it will not disintegrate overnight in a few months time (hopefully!). . . The mathematical name of this shape is “hyperboloid of one sheet”, and its equation is . x2A2+y2B2−z2C2=0. begin{equation} frac{x^2}{A^2} + frac{y^2}{B^2} - frac{z^2}{C^2} = 0. end{equation}A2x2​+B2y2​−C2z2​=0.​​ . When $A=B$ the horizontal cross-sections are circles, just like in our construction. The elastic bands effectively allow us to play with the parameter $C$, which controls how fast the hyperboloid grows sideways. There is a wonderful widget in the Interactive Gallery of Quadric Surfaces, its quite fun to play with. . To see how this curved surface can be made entirely out of straight lines, one can define the surface as the set of all parametric curves of the kind . x=A(cos⁡θ−vsin⁡θ)y=B(sin⁡θ+vcos⁡θ)z=Cεv. begin{align} x &amp;= A ( cos theta - v sin theta) y &amp;= B ( sin theta + v cos theta) z &amp;= C varepsilon v. end{align}xyz​=A(cosθ−vsinθ)=B(sinθ+vcosθ)=Cεv.​​ . Substitute the parametric equations above into the equation of the paraboloid and see that they satisfy it. . There are actually two families of curves, for $ epsilon= pm 1$. I made a Mathematica plot of the two families of lines, in red ($ varepsilon=1$) and in blue ($ varepsilon=-1$), for ten $ theta$ values between 0 and $2 pi$. It’s easy to see that each family of lines swirls in a different direction. . . The Mathematica code I wrote is . a = 1; b = 1; c = 1; h = 4; n = 10; p1 = ContourPlot3D[ (*hyperboloid*) x^2/a^2 + y^2/b^2 - z^2/c^2 == 1, {x, -h, h}, {y, -h, h}, {z, -h, h}, Mesh -&gt; None, ContourStyle -&gt; Opacity[0.4], AxesLabel -&gt; {x, y, z}, LabelStyle -&gt; Large ]; p2 = ParametricPlot3D[ (*red lines*) Table[{ a (Cos[theta] - v Sin[theta]), b (Sin[theta] + v Cos[theta]), c v }, {theta, 0, 2 Pi, 2 Pi/n}], {v, -20, 20}, PlotStyle -&gt; {Red} ]; p3 = ParametricPlot3D[ (*blue lines*) Table[{ a (Cos[theta] - v Sin[theta]), b (Sin[theta] + v Cos[theta]), - c v }, {theta, 0, 2 Pi, 2 Pi/n}], {v, -20, 20}, PlotStyle -&gt; {Blue} ]; Show[{p1, p2, p3}] . .",
+            "url": "http://localhost:4000/markdown/2021/11/12/skewer-hyperboloid.html",
+            "relUrl": "/markdown/2021/11/12/skewer-hyperboloid.html",
+            "date": " • Nov 12, 2021"
+        }
+        
+    
+  
+    
+        ,"post3": {
+            "title": "Tomoko Fuse Unit Origami",
+            "content": ". This structure has the general shape of a dodecahedron, with 12 beautiful pentagonal stars embeded in it. I found a while back a scan of the book Tomoko Fuse Unit Origami Fantasy. The book is all written in japanese, but I could make sense of the diagrams. . Tomoko Fuse is a master of modular origami, just google her name and you’ll find tons of fun projects. . I used craft paper to give the structure a muted tones and a rustic feel. I think it turned out pretty good 😊. . .",
+            "url": "http://localhost:4000/markdown/2021/11/08/tomoko-fuse.html",
+            "relUrl": "/markdown/2021/11/08/tomoko-fuse.html",
+            "date": " • Nov 8, 2021"
+        }
+        
+    
+  
+    
+        ,"post4": {
+            "title": "George Hart's Card Constructions",
+            "content": ". George Hart is a sculptor and geometer, and his webpage has the best projects for the artistically-minded nerd! . The image above shows the 30-cards construction, but it is not identical to what George Hart shows on his card constructions page. I actually used Francesco De Comité’s version, also credited by Hart. The idea is that you strategically cut the cards in very specific places, so that they can be slided together. . Figuring out how to cut the cards was quite hard to me, I had to experiment a lot! George Hart provides printable templates, but their dimensions are different from the cards I used. Finally besides cutting the cards, the task of putting everything together was a nightmare. It’s been a while since I built this, but I think that I used clothes pegs to hold the cards together before the whole thing is ready. Once you finish building the structure, it should be much more stable (but not enough to throw it in the air!!). . Because there is a 5-fold symmetry, naturally the golden ratio . φ=1+52 varphi = frac{1+ sqrt{5}}{2}φ=21+5 . ​​ . figures quite prominently in there. Francesco De Comité provides in his Flickr page a plan for how to cut the cards: . . I put the plan above for the future me to understand what it means, because I myself didn’t use this… I found in one of my “projects” folders my own calculations of how to cut the cards. It shows only the cuts on the top side. One should rotate the card 180 degrees and do the same cuts on the other side. For a card of height H and length L, my cutting plan is the following. . . The cuts are the thick blue lines, and the red arrows show the length $L/ varphi$ of one of the cuts and of the uncut (dashed) part. From this I hope you can imagine that when the cards are slided together, the two cuts amount to the length of the whole “diagonal”, such that the two card ends are flush. I wish I could explain why the plan is what it is, but some time has passed and I have no idea any more 🤷‍♂️… . .",
+            "url": "http://localhost:4000/markdown/2021/11/08/george-hart-card-constructions.html",
+            "relUrl": "/markdown/2021/11/08/george-hart-card-constructions.html",
+            "date": " • Nov 8, 2021"
+        }
+        
+    
+  
+    
+        ,"post5": {
+            "title": "The Sonobe Module",
+            "content": "All these modular origami constructions are made of a single basic module, the Sonobe unit. . The basic unit has flaps and pockets. . The actual folding of the Sonobe module is quite easy, see the instructions below, taken from Michael Naughton’s excellent diagram. . . This is an incredibly flexible unit, allowing us to combine it in many ways. This pdf shows how to combine different numbers of Sonobe modules to produce the shapes above, and many others. If all meeting points of the basic unit contain 3 modules, one gets a cube. If all meeting points contain 4 modules, then we produce a octahedron (with pyramids on each of its faces). . . The results can be very impressive! Above is a Truncated Icosahedron, made of pentagons surrounded by hexagons (like a soccer ball). This one is made of 90 Sonobe units, see detailed instructions. .",
+            "url": "http://localhost:4000/markdown/2021/11/03/sonobe.html",
+            "relUrl": "/markdown/2021/11/03/sonobe.html",
+            "date": " • Nov 3, 2021"
+        }
+        
+    
+  
+    
+        ,"post6": {
+            "title": "Pythagorean theorem",
+            "content": "I’ve been interested lately in the Pythagorean theorem, and the myriad of ways one can prove it. . . An excellent resource is the website Cut The Knot. . Another great source is John C. Sparks’ The Pythagorean Theorem: Crown Jewel of Mathematics. . I used my tablet to write down my own version of some of the nicest proofs, see below. .",
+            "url": "http://localhost:4000/markdown/2021/10/28/pythagoras.html",
+            "relUrl": "/markdown/2021/10/28/pythagoras.html",
+            "date": " • Oct 28, 2021"
+        }
+        
+    
+  
+    
+        ,"post7": {
+            "title": "Hexastix",
+            "content": "I’m very proud of this construction I made about 4 years ago. . . It sits prominently on my office shelf, it has never failed to impress the occasional visitor :) Although it looks complicated, this 72-pencil construction is not very hard to build! I followed Matt Parker’s youtube tutorial, it took me about 1.5 hours to make it, and another hour or so to glue it. . Materials: . 72 pencils | a few elastic bands | super glue | . Here in Israel, I couldn’t find non-sharpened pencils. There is some risk of (small) injury if you don’t take care 😬. . Without the elastic bands, this construction would not be stable. The problem is that with time the elastic bands get dry and disintegrate, so if you want to have this construction standing for a long time, you have to glue it. I put tiny drops of super glue in most of the touching points between the pencils, and it worked great! . Enjoy making your own! . . PS: I’m in my office at the university writing these words, and exactly now a student passed in the corridor and asked me about the Hexastix 😄 .",
+            "url": "http://localhost:4000/markdown/2021/10/28/hexastix.html",
+            "relUrl": "/markdown/2021/10/28/hexastix.html",
+            "date": " • Oct 28, 2021"
+        }
+        
+    
+  
+    
+        ,"post8": {
+            "title": "First blog post",
+            "content": "This is my first blog post on this website 🥳 . Every now and then I’ll write about what’s going on with my research group, and also about random stuff that interest me. . See you around! .",
+            "url": "http://localhost:4000/markdown/2021/10/28/first-post.html",
+            "relUrl": "/markdown/2021/10/28/first-post.html",
+            "date": " • Oct 28, 2021"
+        }
+        
+    
+  
+    
+        ,"post9": {
+            "title": "The can problem",
+            "content": "watch this space .",
+            "url": "http://localhost:4000/markdown/2021/10/27/can-problem.html",
+            "relUrl": "/markdown/2021/10/27/can-problem.html",
+            "date": " • Oct 27, 2021"
+        }
+        
+    
+  
+    
+        ,"post10": {
+            "title": "An Example Markdown Post",
+            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
+            "url": "http://localhost:4000/markdown/2020/01/14/test-markdown-post.html",
+            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
+            "date": " • Jan 14, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me, Yair",
+          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "url": "http://localhost:4000/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "Cartoons",
+          "content": "https://www.gocomics.com/calvinandhobbes/2015/01/12 . . https://xkcd.com/2207/ . . https://www.smbc-comics.com/comic/2013-06-16 . . Science: Abridged Beyond the Point of Usefulness . . http://www.sciencecartoonsplus.com/gallery/physics/galphys2j.php# . . .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/cartoons.html",
+          "relUrl": "/teaching/physics71031/gifs/cartoons.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page3": {
+          "title": "Energy",
+          "content": "Elastic energy . The First Hold &amp; Release Bungee Jump | Damien Walters . https://youtu.be/iN1beukMJJc . Potential and Kinetic Energy . Visualization of conservation of energy . High road low road track race, potential-kinetic energy tracks . https://youtu.be/_GJujClGYJQ . Mondo Duplantis 2018, play at 0.25 speed . 150 Ton Hydraulic Guillotine Vs Deck of Cards .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/energy.html",
+          "relUrl": "/teaching/physics71031/gifs/energy.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
+          "title": "Extra materials - 1d Kinematics",
+          "content": "The Physics Classroom . This is an excellent interactive website, with lots of useful exercises: Distance vs. Displacement, Acceleration, Name That Motion, Motion Diagrams, Graph That Motion, Match That Graph, Position-Time Graphs - Conceptual Analysis, Position-Time Graphs - Numerical Analysis, Dots and Graphs, Which One Doesn’t Belong?, Free Fall, Up and Down. . Video Lectures . Khan Academy - One-dimensional motion Motion in a Straight Line: Crash Course Physics #1 Michel van Biezen - Lectures in MOTION IN ONE DIMENSION Michel van Biezen - Lectures in Motion in 1 Dimension: GRAPHIC SOLUTIONS . $x$, $v$, $a$ graphs . Draw the missing curves, with black dots in the same instants in time as in the given curve. All curved lines are parabolas. . Exercise 1 . Exercise 2 answer . Exercise 3 answer . Exercise 4 answer . Exercise 5 answer . Exercise 6 answer . Match the graphs, $x$ and $v$ . Match the curve on the left with one of the curves on the right. . Exercise 1 . Exercise 2 . Exercise 3 . Exercise 4 . Exercise 5 . Exercise 6 . Exercise 7 . Exercise 8 . Exercise 9 . Exercise 10 . Exercise 11 . Exercise 12 . Oil drop patterns . Oil drips from a car at fixed time intervals. Match the oil drop pattern the car leaves on the road with the curves on the right. Attention: there might be more than one solution! . Exercise 1 . Exercise 2 . Exercise 3 . Exercise 4 . Exercise 5 . Exercise 6 . Exercise 7 . Exercise 8 . Exercise 9 . Exercise 10 . Exercise 11 . Exercise 12 . Exercise 13 . Exercise 14 . Exercise 15 . Exercise 16 . Exercise 17 . Exercise 18 .",
+          "url": "http://localhost:4000/teaching/physics71031/extra/extra-1d-kinematics.html",
+          "relUrl": "/teaching/physics71031/extra/extra-1d-kinematics.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page5": {
+          "title": "Extra materials - Basic Math",
+          "content": "I will assume that student in this course have a minimal proficiency in math. Find below some links for basic math that we will need during this course. I will not teach any of these topics, if you feel that you don’t fully know this stuff, please go ahead and study these topics asap. . Trigonometry . Khan Academy Michel van Biezen . Pre-algebra . Arithmetic properties; factors and multiples; fractions; decimals; negative numbers and coordinate plane; rations, rates, proportions; equations, expressions, and inequalities; exponents, radicals, and scientific notation. . Khan Academy . Algebra . Michel van Biezen . עברית . קיים אתר של אקדמיית קהאן בעברית, כדאי להכיר אותו .",
+          "url": "http://localhost:4000/teaching/physics71031/extra/extra-basic-math.html",
+          "relUrl": "/teaching/physics71031/extra/extra-basic-math.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page6": {
+          "title": "Extra materials - Momentum",
+          "content": "Momentum, Lecture 1 . Momentum, Lecture 2 . Videos of people flying backwards after being shot: . Bruce Willis (watch the few first seconds) | Uma Thurman | Morgan Freeman (watch from 1:10) | . Momentum, Lecture 3 . Videos of a Newton’s Cradle . Newton’s Cradle with a High-Speed Video Camera | Amazing Demonstration Of A Giant Newton’s Cradle! | .",
+          "url": "http://localhost:4000/teaching/physics71031/extra/extra-momentum.html",
+          "relUrl": "/teaching/physics71031/extra/extra-momentum.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page7": {
+          "title": "Extra materials - Units",
+          "content": "basic units and prefixes . Units for three SI base quantities . Quantity Unit Name Unit Symbol . Length [L] | meter | m | . Time [T] | second | s | . Mass [M] | kilogram | kg | . Some prefixes for SI Units that you must remember! . Factor Prefix Symbol . $10^9$ | giga- | G | . $10^6$ | mega- | M | . $10^3$ | kilo- | k | . $10^{-2}$ | centi- | c | . $10^{-3}$ | milli- | m | . $10^{-6}$ | micro- | $ mu$ | . $10^{-9}$ | nano- | n | . exponent rules . . volume and surface area . . 1 horse-sized duck or 100 duck-sized horses? . .",
+          "url": "http://localhost:4000/teaching/physics71031/extra/extra-units.html",
+          "relUrl": "/teaching/physics71031/extra/extra-units.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page8": {
+          "title": "Fluids",
+          "content": "f ## Fluids . How a 50 kg iron working anvil floats on liquid mercury From https://twitter.com/Rainmaker1973/status/1194215829199605765?s=09 . Hydrostatic pressure . Pressure change during diving . Pressure change during diving pic.twitter.com/PZjiR7w004 . &mdash; Physics-astronomy (@Physicsastronmy) November 25, 2021 Fish tower . The Hydrostatic Paradox - Explained! . Pascal’s Blaising Barrel - Exploding Glass Barrel with Water Pressure . The Pressure Paradox #VeritasiumContest #GrandPrizeWinner . Surface tension . from https://twitter.com/Rainmaker1973/status/1191329332926570497?s=09 .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/fluids.html",
+          "relUrl": "/teaching/physics71031/gifs/fluids.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page9": {
+          "title": "",
+          "content": "Senior Lecturer [Assistant Professor] The Hebrew University of Jerusalem The Department of Soil and Water Sciences Robert H. Smith Faculty of Agriculture, Food and Environment . About . I’m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems. Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems. . The common theme between my different research projects is land/ecosystem degradation caused by human activity. . Our research is based on “simple” mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system. Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory. . [Read more on current research projects…] . I love to write code, and I made available on the Tutorials page some working examples in Python and LaTeX. Check it out! . How to find me .   yair.mau@mail.huji.ac.il   +972 8 948 9386   Rehovot Campus, Lubell building, office 19. Map here . Google Scholar Check out my CV . . Piet Hein Problems worthy   of attack prove their worth   by hitting back. .",
+          "url": "http://localhost:4000/inde_old.html",
+          "relUrl": "/inde_old.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page10": {
+          "title": "Science",
+          "content": "",
+          "url": "http://localhost:4000/blog/science/",
+          "relUrl": "/blog/science/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page11": {
+          "title": "Geek stuff",
+          "content": "",
+          "url": "http://localhost:4000/blog/geek/",
+          "relUrl": "/blog/geek/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page12": {
+          "title": "News",
+          "content": "",
+          "url": "http://localhost:4000/blog/news/",
+          "relUrl": "/blog/news/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page13": {
+          "title": "Blog",
+          "content": "News . Some of the latest news in the research group . Science . Science-related posts . Geek thoughts . This is where I write about random geek/math/puzzles stuff . Art . Art, origami, mathematical constructions, music, random projects . . . Selected blogposts . Here are a few blogposts that you might find interesting .",
+          "url": "http://localhost:4000/blog/",
+          "relUrl": "/blog/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page14": {
+          "title": "Time Series Analysis",
+          "content": "In Construction . This course does not exist yet, but I already started uploading the course material, it’s all very rough. Enjoy :) . Basic time series analysis . Lecture Graphs, NaN, Missing data, Outliers, resampling, filling missing data, smoothing (moving average, SavGol). Data for this lecture: file1, file2. . Seasonal decomposition . Lecture .",
+          "url": "http://localhost:4000/teaching/timeseries/",
+          "relUrl": "/teaching/timeseries/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page15": {
+          "title": "Hydrology images and gifs",
+          "content": "&quot;Read other people&#39;s code and &#39;steal&#39; the good parts. Even if you try to do things exactly like someone else, you&#39;ll fail, but in doing so create something that&#39;s truly your own.&quot; – Peter Cooper . &mdash; Programming Wisdom (@CodeWisdom) July 31, 2020 From reddit . Wikipedia Commons . A stunning cloudburst over Lake Millstatt, Austria captured by photographer Peter Maier. . תיעוד מרהיב: צילום מסך גשם שעובר מעל מפרץ חיפה.🌧️🌧️🌧️🌧️🌧️🌧️צילום: דני מלמן+חדשות מזג אויר בטלגרם. pic.twitter.com/gecis9ebp8 . &mdash; Rubi Hammerschlag | רובי המרשלג (@rubih67) December 18, 2021 This is a brilliant way to show what happens when we destroy nature. It hits back at us ……Thanks @simongerman600 pic.twitter.com/OpSV1CqXUz . &mdash; Erik Solheim (@ErikSolheim) September 28, 2021 Day 3 of the #30DayChartChallenge: historical comparisons. #Hydrologist Sam Oliver created this ridgeplot using #rstats pkgs #ggplot2 and ggridges to explore trends in daily #streamflow from 1990-2018 at the #Yahara #River in #Wisconsin (site info at https://t.co/RmjCPt6dtz) pic.twitter.com/mig66Uy8xF . &mdash; USGS Data Science (@USGS_DataSci) April 3, 2021 Beautiful map shows all of the rivers and waterways in Africa, coloured according to the major hydrological basins. @pythonmaps has been posting great stuff recently. Source: https://t.co/Tjl6dX0hrj pic.twitter.com/AKoGl8mip6 . &mdash; Simon Kuestenmacher (@simongerman600) January 17, 2021",
+          "url": "http://localhost:4000/teaching/hydrology/gifs/",
+          "relUrl": "/teaching/hydrology/gifs/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page16": {
+          "title": "Surface Hydrology",
+          "content": "Files . Quick access to source files of all units and assignments. Right-click and choose “Save as” to download files. . 1 - Introduction: lecture; exercises; data1, data2 | 2.1 - Variability of Precipitation: lecture (Interannual), lecture2 (Intra-annual); exercises; code1 (Interannual), code2 (Intra-annual) | 2.2 - Return Period: lecture; exercises; code | Assignment 1 | 3 - ET: lecture; exercises; | Assignment 2 | 4 - Infiltration: lecture; exercises; | 5.1 - Streamflow: lecture; exercises; | 5.2 - Streamflow: lecture | Assignment 3 | 6 - Budyko: lecture | 7 - Spatial : lecture | Final Assignment: assignment | Images and gifs | . . . Sources . Books . Dingman, S.L., 2015. Physical Hydrology: Third Edition. Waveland Press. . Ward, A.D., Trimble, S.W., 2003. Environmental Hydrology, Second Edition. CRC Press. . Brutsaert, W., 2005. Hydrology: An Introduction. Cambridge University Press. . I would like to share the Afterword of Brutsaert’s book, the excellent “A short historical sketch of theories about the water circulation on Earth”. It’s definitely worth reading!! . . . A Jupyter Notebook will open whenever you click on a button like this. You can then see its source code and download it by clicking on “View on GitHub”. . 1 - Introduction to the course . . A very wide overview Lecture What is Hydrology? What are the main processes in the hydrologic cycle? An overview, based on the excellent USGS Water Science School. . Python intro Exercises Let’s have fun plotting some data. If you need, download the necessary data for this exercise here and here. . . . 2 - Precipitation . . Data Data If necessary, download the following data to be used in the Jupyter Notebooks below: Bilbao (daily, and monthly), Eilat (daily, and monthly), Tel Aviv (daily, and monthly), Beer Sheva (daily, and monthly), Ben-Gurion airport (daily, and monthly), London (daily, and monthly). . 2.1 Variability of Precipitation . Interannual variability of precipitation Lecture Quantifying interannual variability of precipitation. . Intra-annual variability of precipitation Lecture A comparison between the seasonality of Tel Aviv and London . Practice calculating inter- and intra-annual variability Exercises Now it’s your turn to calculate and plot graphs. . Code of the lectures above Code Interannual variability of precipitation; Code Intra-annual variability of precipitation . 2.2 Return Period . Lecture Was Bilbao’s 1983 “freak” flood such an unexpected event? How often should we expect very large downpours? . Practice calculating return periods Exercises Now it’s your turn to calculate and plot graphs. . Code of return period Code Extremely dirty code, it’s really for my own reference :) . . . Assignment 1 . Assignment First assignment . . . 3 - Evapotranspiration . . Data Data If necessary, download the following data to be used in the Jupyter Notebooks below: Bet dagan (3h-data, evaporation pan, radiation), Headers for sub hourly data, . . Evapotranspiration - definitions and models Lecture . Evapotranspiration - Thornthwaite and Penman equations Exercises . . . Assignment 2 . Assignment Second assignment . . . 4 - Infiltration . . Data Data Nassif and Wilson (1975), “The influence of slope and rain intensity on runoff and infiltration”, download here, figure 8 (2nd panel) from this paper download here, 4 csv files of infiltration rate against time, download here. . Infiltration Lecture Definitions, factors that influence infiltration, Horton equation, Green &amp; Ampt equation, the least squares method. . Infiltration Exercises Let’s practice! . . . 5 - Streamflow . . 5.1 Streamflow . Lecture . Streamflow exercises Exercises . Streamflow code Code . 5.2 Unit Hydrograph . Lecture . . . Assignment 3 . Assignment Third assignment . . . 6 - Budyko’s framework . . Budyko’s framework Lecture . Budyko code Code . . . 7 - Spatial variability . . Spatial distribution Lecture . . . Final Assignment . Assignment .",
+          "url": "http://localhost:4000/teaching/hydrology/",
+          "relUrl": "/teaching/hydrology/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page17": {
+          "title": "More",
+          "content": "Tutorials . Tools I recommend . Quotes . Science Communication . Five-star Content .",
+          "url": "http://localhost:4000/more/",
+          "relUrl": "/more/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page18": {
+          "title": "AGU 2021",
+          "content": ". Important: Download the full poster here (~10Mb) Send me an email if you have any questions: yair.mau@mail.huji.ac.il . The poster mentions 4 papers we have worked on lately: . Isaac Kramer, Yuval Bayer, and Yair Mau. The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Soil Hydraulic Conductivity . (under review, WRR), 2021. . Taiwo Adeyemo, Isaac Kramer, Guy J. Levy, and Yair Mau. Salinity and sodicity can cause hysteresis in soil hydraulic conductivity. arXiv, 2021. PDF   (under review, Geoderma) . Isaac Kramer, Yuval Bayer, Taiwo Adeyemo, and Yair Mau. Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework . HESS, 2021. doi: 10.5194/hess-25-1993-2021 PDF   GitHub . Isaac Kramer and Yair Mau. Soil degradation risks assessed by the SOTE model for salinity and sodicity. Water Resources Research, 2020. doi: 10.1029/2020WR027456 PDF   GitHub .",
+          "url": "http://localhost:4000/AGU2021/",
+          "relUrl": "/AGU2021/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page19": {
+          "title": "Group",
+          "content": "Yair Mau, Principal Investigator . . . Current group members . Isaac Kramer, PhD student . . . Nurit Goldberg, PhD student . . . Laura Rez, MSc student . . . Yuval Bayer, Undergraduate Student . . . Group Pictures . 2020-09-03, SkyTown, Tel Aviv . Laura Rez, Yuval Bayer, Nurit Goldberg, Avigail Kaner, Yair Mau, Taiwo Adeyemo, Isaac Kramer . 2020-03-18, First Corona zoom meeting . Nurit, Isaac, Yair, Taiwo, Avigail, Avi (clockwise from top left) . 2019-01-10, Yatir Forest . Avi Gross, Avigail Kaner, Isaac Kramer, Yair Mau . Alumni . Taiwo Adeyemo, MSc student (2021) . . . Michael Avi Gross, MSc student (2021) . . . Avigail Kaner, Research Specialist (2021) . . .",
+          "url": "http://localhost:4000/group/",
+          "relUrl": "/group/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page20": {
+          "title": "Publications",
+          "content": "Publications . . Isaac Kramer, Yuval Bayer, and Yair Mau. The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Saturated Soil Hydraulic Conductivity . Water Resources Research, 2022. doi: 10.1029/2021WR031307 BibTeX   PDF   . @article{kramer2022sustainability, doi = {10.1029/2021WR031307}, url = {https://doi.org/10.1029/2021WR031307}, year = {2022}, author = {Isaac Kramer and Yuval Bayer and Yair Mau}, title = {The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Saturated Soil Hydraulic Conductivity}, journal = {Water Resources Research}, } . . Taiwo Adeyemo, Isaac Kramer, Guy J. Levy, and Yair Mau. Salinity and sodicity can cause hysteresis in soil hydraulic conductivity. Geoderma, 2022. doi: 10.1016/j.geoderma.2022.115765 BibTeX   PDF   . @misc{adeyemo2022salinity, title={Salinity and sodicity can cause hysteresis in soil hydraulic conductivity}, author={Taiwo Adeyemo and Isaac Kramer and Guy J. Levy and Yair Mau}, year={2022}, journal = {Geoderma} } . . Yuval R. Zelnik, Yair Mau, Moshe Shachak, and Ehud Meron. High-integrity human intervention in ecosystems: Tracking self-organization modes. PLOS Computational Biology, 2021. doi: 10.1371/journal.pcbi.1009427 BibTeX   PDF . @article{zelnik2021high, doi = {10.1371/journal.pcbi.1009427}, url = {https://doi.org/10.1371/journal.pcbi.1009427}, year = {2021}, author = {Yuval R. Zelnik and Yair Mau and Moshe Shachak and Ehud Meron}, title = {High-integrity human intervention in ecosystems: Tracking self-organization modes}, journal = {PLOS Computational Biology}, volume = {17}, number = {9}, pages = {e1009427} } . . Isaac Kramer, Yuval Bayer, Taiwo Adeyemo, and Yair Mau. Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework . HESS, 2021. doi: 10.5194/hess-25-1993-2021 BibTeX   PDF   GitHub . @article{kramer2020hysteresis, doi = {10.5194/hess-25-1993-2021}, url = {https://doi.org/10.5194/hess-25-1993-2021}, year = {2021}, author = {Isaac Kramer and Yuval Bayer and Taiwo Adeyemo and Yair Mau}, title = {Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework}, journal = {Hydrology and Earth System Sciences}, volume={25}, number={4}, pages={1993--2008} } . . Isaac Kramer and Yair Mau. Soil degradation risks assessed by the SOTE model for salinity and sodicity. Water Resources Research, 2020. doi: 10.1029/2020WR027456 BibTeX   PDF   GitHub . @article{kramer2020soil, doi = {10.1029/2020WR027456}, url = {https://doi.org/10.1029/2020WR027456}, year = {2020}, publisher = {Wiley}, volume = {56}, number = {10}, author = {Isaac Kramer and Yair Mau}, title = {Soil degradation risks assessed by the SOTE model for salinity and sodicity}, journal = {Water Resources Research} } . . Xing Chen, Mukesh Kumar, Daniel de B. Richter, and Yair Mau. Impact of gully incision on hillslope hydrology. Hydrological Processes, 2020. doi: 10.1002/hyp.13845 BibTeX   PDF . @article{chen2020impact, doi = {10.1002/hyp.13845}, url = {https://doi.org/10.1002/hyp.13845}, year = {2020}, publisher = {Wiley}, volume = {34}, number = {19}, pages = {3848--3866}, author = {Xing Chen and Mukesh Kumar and Daniel B. Richter and Yair Mau}, title = {Impact of gully incision on hillslope hydrology}, journal = {Hydrological Processes} } . . Avigail Kaner, Yakir Preisler, José M. Grünzweig, and Yair Mau. Internal water storage buffering maintains plant function under drought as described by a general hydraulic model. bioRxiv, 2020. doi: 10.1101/2020.02.11.943563 BibTeX   PDF . @article{kaner2020internal, doi = {10.1101/2020.02.11.943563}, url = {https://doi.org/10.1101/2020.02.11.943563}, year = {2020}, publisher = {Cold Spring Harbor Laboratory}, volume = {}, number = {}, pages = {}, author = {Avigail Kaner and Yakir Preisler and Jos{ &#39;{e}} M Gr &quot;{u}nzweig and Yair Mau}, title = {Internal water storage buffering maintains plant function under drought as described by a general hydraulic model}, journal = {} } . . Yair Mau and Amilcare Porporato. Optimal control solutions to sodic soil reclamation. Advances in Water Resources, 91:37–45, 2016. doi: 10.1016/j.advwatres.2016.02.014 BibTeX   PDF . @article{mau2016optimal, doi = {10.1016/j.advwatres.2016.02.014}, year = {2016}, publisher = {Elsevier {BV}}, volume = {91}, pages = {37--45}, author = {Yair Mau and Amilcare Porporato}, title = {Optimal control solutions to sodic soil reclamation}, journal = {Advances in Water Resources} } . . Amilcare Porporato, Xue Feng, Stefano Manzoni, Yair Mau, Anthony J. Parolari, and Giulia Vico. Ecohydrological modeling in agroecosystems: Examples and challenges. Water Resources Research, 51(7):5081–5099, 2015. doi: 10.1002/2015WR017289 BibTeX   PDF . @article{porporato2015ecohydrological, doi = {10.1002/2015wr017289}, year = {2015}, publisher = {Wiley-Blackwell}, author = {Amilcare Porporato and Xue Feng and Stefano Manzoni and Yair Mau and Anthony J. Parolari and Giulia Vico}, title = {Ecohydrological modeling in agroecosystems: Examples and challenges}, journal = {Water Resources Research}, volume = {51}, number = {7}, pages = {5081--5099} } . . Yair Mau and Amilcare Porporato. A dynamical system approach to soil salinity and sodicity. Advances in Water Resources, 83:68–76, 2015. doi: 10.1016/j.advwatres.2015.05.010 BibTeX   PDF . @article{mau2015dynamical, year = {2015}, publisher = {Elsevier {BV}}, volume = {83}, pages = {68--76}, author = {Yair Mau and Amilcare Porporato}, title = {A dynamical system approach to soil salinity and sodicity}, journal = {Advances in Water Resources}, doi = {10.1016/j.advwatres.2015.05.010} } . . Yair Mau, Lev Haim, and Ehud Meron. Reversing desertification as a spatial resonance problem. Physical Review E, 91(1):012903, 2015. doi: 10.1103/PhysRevE.91.012903 BibTeX   PDF . @article{mau2015reversing, title={Reversing desertification as a spatial resonance problem}, author={Yair Mau and Lev Haim and Ehud Meron}, journal={Physical Review E}, volume={91}, number={1}, pages={012903}, year={2015}, publisher={APS}, doi = {10.1103/physreve.91.012903}, } . . Yair Mau, Xue Feng, and Amilcare Porporato. Multiplicative jump processes and applications to leaching of salt and contaminants in the soil. Physical Review E, 90(5):052128, 2014. doi: 10.1103/PhysRevE.90.052128 BibTeX   PDF . @article{mau2014multiplicative, title={Multiplicative jump processes and applications to leaching of salt and contaminants in the soil}, author={Yair Mau and Xue Feng and Amilcare Porporato}, journal={Physical Review E}, volume={90}, number={5}, pages={052128}, year={2014}, publisher={APS}, doi = {10.1103/physreve.90.052128}, } . . Lev Haim, Yair Mau, and Ehud Meron. Spatial forcing of pattern-forming systems that lack inversion symmetry. Physical Review E, 90(2):022904, 2014. doi: 10.1103/PhysRevE.90.022904 BibTeX   PDF . @article{haim2014spatial, title={Spatial forcing of pattern-forming systems that lack inversion symmetry}, author={Lev Haim and Yair Mau and Ehud Meron}, journal={Physical Review E}, volume={90}, number={2}, pages={022904}, year={2014}, publisher={APS}, doi = {10.1103/physreve.90.022904}, } . . Yair Mau, Lev Haim, Aric Hagberg, and Ehud Meron. Competing resonances in spatially forced pattern-forming systems. Physical Review E, 88(3): 032917, 2013. doi: 10.1103/PhysRevE.88.032917 BibTeX   PDF . @article{mau2013competing, title={Competing resonances in spatially forced pattern-forming systems}, author={Yair Mau and Lev Haim and Aric Hagberg and Ehud Meron}, journal={Physical Review E}, volume={88}, number={3}, pages={032917}, year={2013}, publisher={APS}, doi = {10.1103/physreve.88.032917}, } . . Yair Mau, Aric Hagberg, and Ehud Meron. Spatial periodic forcing can displace patterns it is intended to control. Physical Review Letters, 109 (3):034102, 2012. doi: 10.1103/PhysRevLett.109.034102 BibTeX   PDF . @article{mau2012spatial, title={Spatial periodic forcing can displace patterns it is intended to control}, author={Yair Mau and Aric Hagberg and Ehud Meron}, journal={Physical Review Letters}, volume={109}, number={3}, pages={034102}, year={2012}, publisher={APS}, doi = {10.1103/physrevlett.109.034102}, } . . Yair Mau, Aric Hagberg, and Ehud Meron. Dual-mode spiral vortices. Physical Review E, 80(6):065203, 2009. doi: 10.1103/physreve.80.065203 BibTeX   PDF . @article{mau2009dual, title={Dual-mode spiral vortices}, author={Yair Mau and Aric Hagberg and Ehud Meron}, journal={Physical Review E}, volume={80}, number={6}, pages={065203}, year={2009}, publisher={APS}, doi = {10.1103/physreve.80.065203}, } . Tip: find the BibTeX of any publication by copying its doi here: doi2bib.org. . Theses . PhD Thesis . Title: “Pattern Formation in Spatially Forced Systems: Application to Vegetation Restoration” Advisor: Prof. Ehud Meron. The Physics Department, The Ben-Gurion University of the Negev, Israel. PDF . Master’s Thesis . Title: “Localized Spatial Strutures in Non-Equilibrium Systems” Advisor: Prof. Ehud Meron. The Physics Department, The Ben-Gurion University of the Negev, Israel. PDF Watch pretty cool videos on this research!! .",
+          "url": "http://localhost:4000/publications/",
+          "relUrl": "/publications/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page21": {
+          "title": "Tools",
+          "content": "Programming . Anaconda . “The easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X.” . Sublime Text . “Sublime Text is a sophisticated text editor for code, markup and prose.” . Jupyter Notebook . “The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.” . CodeCademy . “Learn to code interactively, for free.” . Documents . PDFtk . “Use PDFtk Pro to quickly split, merge, rotate, watermark, stamp and secure PDF pages and documents” Command line version (powerful, see examples); friendly graphical tool for Windows. . Overleaf . “An online LaTeX editor that’s easy to use.” By the way, Overleaf has the best LaTeX tutorials out there. Check it out. Also, see this excellent WikiBook on LaTeX. . BRISS . “A simple cross-platform (Linux, Windows, Mac OSX) application for cropping PDF files” . Data . Figshare . “Figshare is an online digital repository where researchers can preserve and share their research outputs, including figures, datasets, images, and videos.” . BitBucket . “Bitbucket is a web-based hosting service for projects that use Git revision control systems.” . WebPlotDigitizer . “Extract data from plots, images, and maps.” . $ LaTeX$ . doi2bib . “Give us a DOI and we’ll do our best to get you the BibTeX entry.” . Tables Generator . “Quickly create even complex LaTeX tables online with our generator – cells merging is supported together with borders editing.” .",
+          "url": "http://localhost:4000/more/tools/",
+          "relUrl": "/more/tools/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page22": {
+          "title": "Quotes",
+          "content": "The scientist is not a person who gives the right answers, he’s one who asks the right questions. Claude Lévi-Strauss . | The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ (I found it!) but ‘That’s funny…’ Isaac Asimov . | In theory, there is no difference between theory and practice. But, in practice, there is. Jan L. A. van de Snepscheut . | Contrary to what Asimov says, the most exciting phrase in science, the one that heralds new discoveries, is not ‘Eureka!’ or ‘That’s funny…,’ it’s ‘Your research grant has been approved.’ John Alejandro King . | A theory is something nobody believes, except the person who made it. An experiment is something everybody believes, except the person who made it. Attributed to Albert Einstein . | The purpose of models is not to fit the data but to sharpen the questions. Samuel Karlin . | Research is what I’m doing when I don’t know what I’m doing. Wernher von Braun . | Nothing is more practical than a good theory. Kurt Lewin . | Just as there are odors that dogs can smell and we cannot, as well as sounds that dogs can hear and we cannot, so too there are wavelengths of light we cannot see and flavors we cannot taste. Why then, given our brains wired the way they are, does the remark, “Perhaps there are thoughts we cannot think,” surprise you? Richard Hamming . | An expert is a person who has made all the mistakes that can be made in a very narrow field. Niels Bohr . | An expert is one who knows more and more about less and less until he knows absolutely everything about nothing. Nicholas Butler . | Essentially, all models are wrong, but some are useful. George E. P. Box . | Theory is when you know everything but nothing works. Praxis is when everything works but no one knows why. In our lab, theory and praxis are combined: nothing works and no one know why. Unknown . | The great tragedy of Science — the slaying of a beautiful hypothesis by an ugly fact. Thomas Henry Huxley . | So, in the face of overwhelming odds, I’m left with only one option, I’m gonna have to science the shit out of this. Mark Watney . | The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be. Douglas Adams, The Salmon of Doubt: Hitchhiking the Galaxy One Last Time . | You’d be amazed how much research you can get done when you have no life whatsoever. Ernest Cline, Ready Player One . | When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth. Sherlock Holmes . | With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. John von Neumann . | The purpose of computing is insight, not numbers. Richard Hamming . | The most important thing about an equation is all the quantities that don’t appear in it; once we know what the essentials are, figuring out how they depend on each other is often the easier part. Pedro Domingos, The Master Algorithm . | Thermodynamics is easy – I’ve learned it many times. Harvey S. Leff . | Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. John Tukey, The future of data analysis . | An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result. Buckheit and Donoho (1995) . | ”Forty-two!” yelled Loonquawl. ”Is that all you’ve got to show for seven and a half million years’ work?” ”I checked it very thoroughly,” said the computer, ”and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you’ve never actually known what the question is.” ”But it was the Great Question! The Ultimate Question of Life, the Universe and Everything!” howled Loonquawl. ”Yes,” said Deep Thought with the air of one who suffers fools gladly, ”but what actually is it?” A slow stupefied silence crept over the men as they stared at the computer and then at each other. ”Well, you know, it’s just Everything … Everything … ” offered Phouchg weakly. ”Exactly!” said Deep Thought. ”So once you do know what the question actually is, you’ll know what the answer means.” Douglas Adams, The Hitchiker’s Guide to the Galaxy . | Computers are useless. They can only give you answers. Pablo Picasso . | The true and only goal of science is to reveal unity rather than mechanism. Henri Poincaré . | One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity. Josiah Willard Gibbs . | The future is already here — it’s just not very evenly distributed. William Gibson . | True science teaches, above all, to doubt and to be ignorant. Miguel de Unamuno . | If you are the smartest person in the room, then you are in the wrong room. Unknown . | Dividing one number by another is mere computation; knowing what to divide by what is mathematics. Jordan Ellenberg, How Not to Be Wrong: The Power of Mathematical Thinking . | I’ve been in this argument a thousand times. Won them all and convinced nobody. Amos Tversky, on the hot hand fallacy . | Mathematics is the extension of common sense by other means. Jordan Ellenberg, How Not to Be Wrong: The Power of Mathematical Thinking . | If I had more time, I would have written a shorter letter. Blaise Pascal . | I am going to give what I will call an elementary demonstration. But elementary does not mean easy to understand. Elementary means that very little is required to know ahead of time in order to understand it, except to have an infinite amount of intelligence. There may be a large number of steps that hard to follow, but to each does not require already knowing the calculus or Fourier transforms. Richard P. Feynman . | In this section a mathematical model of the growing embryo will be described. This model will be a simplification and an idealization, and consequently a falsification. It is to be hoped that the features retained for discussion are those of greatest importance in the present state of knowledge. Alan Turing, The Chemical Basis of Morphogenesis . | Problems worthy of attack prove their worth by hitting back. Piet Hein . | Art is solving problems that cannot be formulated before they have been solved. The shaping of the question is part of the answer. Piet Hein . | Physics is the simplest of all the sciences, and fundamental physics⁠⁠—the study of the basic pieces of reality at the deepest level⁠—is the simplest of all. Not “simple” in the sense that the homework problems are easy, but simple in the sense that Galileo’s trick of ignoring friction and air resistance makes our lives easier. The reason why physics classes seem so hard is not because physics is so hard—it’s because we understand so much of it that there’s a lot to learn, and that’s because it’s fundamentally pretty simple. Sean Carroll, The Big Picture . | Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better. Edsger W. Dijkstra . | The fundamental role of a teacher is not to deliver information. It is guide the social process of learning. The job of a teacher is to inspire, to challenge, to excite their students to want to learn. Yes, they also do explain and demonstrate and show things, but fundamentally that is beside the point. The most important thing a teacher does is make every student feel like they are important, to make them feel accountable for doing the work of learning. Derek Alexander Muller, youtube . | What is the first business of one who practices philosophy? To get rid of self-conceit. For it is impossible for anyone to begin to learn that which he thinks he already knows. Epictetus . | Confusion is a feeling that precedes learning something. It means you should pay closer attention, not disengage. The Stoic Emperor, twitter . | Let no one ignorant of geometry enter here. Said to be engraved on the door of Plato’s Academy, the oldest recorded entrance requirement of a college . | We don’t use heuristics just because they are fast and efficient. We use them because they are less precise and thus less vulnerable to be misled by noise. A good heuristic is to distrust whoever adds or requires unnecessary precision. Another good heuristic is to distrust whoever thinks that precision always correlates with correctness. Luca Dellanna, twitter . | The comments aren’t there to explain the code to the programmers, the code is there to explain the comments to the computer. Andy Harris, How to begin thinking like a programmer . | .",
+          "url": "http://localhost:4000/more/quotes/",
+          "relUrl": "/more/quotes/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page23": {
+          "title": "Five-Star Content I Recommend",
+          "content": "Books . [Check out my Goodreads profile]. . Superintelligence: Paths, Dangers, Strategies, by Nick Bostrom. | The Unfolding of Language: An Evolutionary Tour of Mankind’s Greatest Invention, by Guy Deutscher. | . Blogs . Wait but why, by Tim Urban. | Fuck Yeah Fluid Dynamics, by Nicole Sharp. | . Short stories . They’re made out of meat, by Terry Bisson. | The Sentinel, by Arthur C. Clarke. | On Exactitude in Science, by Jorge Luis Borges. | The Feeling Of Power , by Isaac Asimov. | . Technical stuff . Linux Shell Scripting Tutorial | Pythonic Perambulations, by Jake VanderPlas. | . YouTube channels . 3Blue1Brown, minute physics, Veritasium, Smarter Every Day, CGP Grey, Kurzgesagt, Primitive Technology, Vsauce, Nerdwriter, Mathologer, Sciencium, Steve Mould . Podcasts . Hardcore History with Dan Carlin, especially the series “Blueprint for Armageddon” and “Wrath of the Khans”. | 99% Invisible | Revisionist History | Lexicon Valley | Making Sense, with Sam Harris | .",
+          "url": "http://localhost:4000/more/five-stars/",
+          "relUrl": "/more/five-stars/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page24": {
+          "title": "Science Communication",
+          "content": "Talks . A scientific talk is not a scientific paper, it is a completely different medium! Here are a few tips that I find useful. . ![](/images/phd-comics-presentation.jpg) Cartoon by Jorge Cham How To Give a Talk . [How To Give a Talk, by David L Stern.] . Excerpt: . Principle 1 - Don’t Put Words On Slides It may not seem intuitive, but including words on slides has a bigger detrimental effect on the quality of a talk than any other issue I will address. . The slides in most science talks contain many words. This simple fact has many consequences, none positive. Most obviously, words on slides impel listeners to read the words on the slide. If you are talking while they are reading, then you generate cognitive dissonance that makes it difficult for the audience to understand either your spoken words or your written words. So, if you want your audience to read the words on a slide, then, presumably, you should shut up. But, I don’t recommend that. Instead, just cut all the words form your slides. . The David Attenborough Style of Scientific Presentation . [The David Attenborough Style of Scientific Presentation.] . Excerpt: . Get into this mindset: your main job is to be an entertainer, not a scientist. Most scientists don’t do this, which is why most scientific talks are bad. The fact of the matter is that if the audience doesn’t understand and enjoy your talk, they won’t care if your science is good. . A LaTeX template . Check out a nice LaTeX template for presentations [here]. . . Visualizations . Visualizations can take a message very, very far. I put a lot of thinking into how to best express an idea. I believe that great graphs greatly improve a scientific paper, and a thoughful graph/animation surely brings home the main point of a talk. Here are a few thoughts on visualizations. . Inspiration . Hans Rosling, Gapminder | Max Roser, Our World in Data | Stephen Malinowski, Music Animation Machine | The Economist, Daily Chart | . Colors . Don’t use the rainbow color map. Why? [Read this], by Robert Kosara. . So how should you choose the colors for a graph? . Visit colorbrewer. It gives sequential, diverging and qualitative colormaps that can be chosen to be “colorblind safe”, “print safe”, or “photocopy safe”. Usually, it is the first and only tool I use. It’s just great! | Visit Adobe Color CC. It gives you much more freedom to play with the colors than colorbrewer. Use it wisely! | . More on color: read Subtleties of Color, by Robert Simmon. . Browse for ideas . The Data Visualisation Catalogue | .",
+          "url": "http://localhost:4000/more/communication/",
+          "relUrl": "/more/communication/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page25": {
+          "title": "Research",
+          "content": "Research . . Interests . I’m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems. Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems. . The common theme between my different research projects is land/ecosystem degradation caused by human activity. . Our research is based on “simple” mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system. Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory. . We are recruiting excellent students to our group! Here you can find some more detail on our current projects. . Projects . Soil salinization . Every week, the world loses an area greater than Manhattan to salt-related soil degradation. It is estimated that 20% of all irrigated lands are affected by salinity, with an even higher fraction of salt-degraded soils in arid and semiarid regions. Salt accumulation in the soil, usually induced by insufficient drainage and poor-quality irrigation water, imposes severe restrictions on food production. . Some of the questions we’d like to answer are: On what time scales the salinization process occurs, and what is the effect of a drier and more extreme climate on the salt buildup? What are the critical thresholds for (irreversible) soil degradation? How can we rehabilitate a degraded soil by making optimal use of the resources available? What role can treated wastewater have on dryland agriculture that is sustainable with respect to the ecosystem services? ​ . Nutrient dynamics . Nitrogen management is of critical importance to food security and environmental sustainability. Because of artificial fertilizers, we have seen a sharp increase in agricultural production in the last century. However, the same nitrogen available to plant uptake, can polute the groundwater, streams and lakes, and be released as nitrous oxide, a potent greenhouse gas. . We would like to understand how the nonlinear dynamics of nitrogen and carbon cycling is influenced by the hydrological cycle. In particular, we would like to study the influence of random rainfall events and a changing climate in driving these cycles. . Tree water balance in a semiarid pine forest and rates of survival under global climate change . Longer droughts and temperature rise impose severe risks of widespread forest mortality. Drought-adapted trees in semiarid and arid ecosystems cope with water stress by regulating their transpiration rate, thus saving internal water content and avoiding runaway decline in water potential. . Our goal is to characterize how trees manage their water budget in order to increase survival probability under prolonged drought periods. . Our group will approach these objectives by modeling the soil-tree-atmosphere water transport to assess tree survival probability for current and future climate scenarios. A collaboration with an experimental group will provide us data from a research station in the Yatir forest, in the Negev desert (see map above). . Studying the fate of the Yatir forest gives us a window into the future, for it is expected that many ecosystems around the world will face increasing drought stress as a result of climate change. .",
+          "url": "http://localhost:4000/research/",
+          "relUrl": "/research/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page26": {
+          "title": "Art",
+          "content": "",
+          "url": "http://localhost:4000/blog/art/",
+          "relUrl": "/blog/art/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page27": {
+          "title": "Physics A (extended) - 71031",
+          "content": "Goals . This basic Physics course has three main goals: . By the end of this course you will be able to look at the world around you and start describing it in a formal (mathematical) language. | By the end of this course you will be able to read a graph and tell the story behind it, i.e., you will translate a formal (mathematical) language into regular speech any human can understand. | We will get acquainted with the concept of Energy. This, in my humblest opinion, is one of the most important ideas in Science. | . Patron saint . Galileo is undoubtedly our hero in this course. Honorable runners-up: Archimedes and Newton. . . Lecture Notes (in hebrew) and more . Book: I loosely use Halliday &amp; Resnick’s Principles of Physics (11th edtion). Software: I use Stylus Labs Write to write my classnotes, it is available for Windows, Mac, Linux, Android, and iOS. Hardware: I use both a Wacom Cintiq 16 and an iPad air. Legend: lecture notes pdf lecture notes source (write) svgz powerpoint widget in jupyter notebook (might take a while to load…) other materials animations and gifs . subject lectures other . basic math |   | | . units |   |   | . 1d kinematics |   |       | . vectors |   |   | . 2d kinematics |   |   | . circular motion |   |   | . Newton’s laws |   |     | . work-energy theorem |   |   | . potential energy |   | | . potential energy diagrams |   |   | . linear momentum |   |   | . gravitation |   | | . hydrostatics |   | | . hydrodynamics |   |   | . Click here for details on all lectures of the 2021-22 academic year. Here are other very nice videos not directly related to any specific topic. . Some past exams (in hebrew) . Year Midterm Moed A Moed B Moed C . 2021-2022 |   |   |   |   | . 2020-2021 |   |   |   |   | . 2019-2020 |   |   |   |   | . 2018-2019 |   |   |   |   | . 2017-2018 |   |   |   |   | . Extra stuff . Physics cartoons . Great online Physics resources: . Khan Academy - English | Khan Academy - עברית | Michel van Biezen | Walter Lewin’s 8.01x - MIT Physics I: Classical Mechanics | PhET: fun, free, interactive, research-based science and mathematics simulations | . link for zoom meetings .",
+          "url": "http://localhost:4000/teaching/physics71031/",
+          "relUrl": "/teaching/physics71031/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page28": {
+          "title": "Agrotech Lab",
+          "content": "Course goals . The goal of this course is to give a first hands-on experience with experimental design data collection, analysis and reporting. We want students to creatively engage with their projects, finding by themselves solutions to the challenges they encounter. The role of the teaching staff will be to consult and advise, not spoon-feed solutions. . The main values we would like to promote: curiosity, independence, creativity, and a can-do attitude. . Guiding questions and Description . This course deals with the design of a simple experiment focusing on data collection and analysis. The guiding questions throughout this course are: . What is my research question? | What data is needed? | How will data be collected? | How will data be analyzed? | How will data be reported? | . Throughout the course, students will critically engage with each of these questions, and as a case study, will build an experiment to monitor the flow of water in the soil-plant-atmosphere continuum, first a joint experiment for the whole class and then a private project which will be selected from a list of topics. The list of projects covers several disciplines, including biological and microbiological science, as well as soil and water sciences. The culmination of this course will be a final project, in which students will devise an experiment and apply the acquired tools to a subject of their choosing, and submit a report on it. See below some of the past projects developed in our course. . The monitoring and control systems to be build are based on the ESP32, a versatile (and cheap!) microcontroller. The ESP32 is similar to the Arduino, with the advantage that it has inbuilt Wi-Fi and Bluetooth features. . 2020-2021 Projects . Yedidya and Yehuda: GitHub page , Instructables . | Adar and Gabriel: GitHub page . | Shani and Nir: GitHub page . | Liron and Yuval: GitHub page . | .",
+          "url": "http://localhost:4000/teaching/agrotech/",
+          "relUrl": "/teaching/agrotech/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page29": {
+          "title": "Teaching",
+          "content": "I currently teach the following courses at the Hebrew University of Jerusalem, campus Rehovot. . Surface Hydrology . Agrotech Lab . Time Series Analysis . Physics A (extended) .",
+          "url": "http://localhost:4000/teaching/",
+          "relUrl": "/teaching/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page30": {
+          "title": "Python",
+          "content": "Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many python code examples. You are invited to download these codes, tweak with them, break them, hack them as you wish! . Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found. . Some useful links for learning python: . Python Data Science Handbook | Learn Python the Hard Way | A Crash Course in Python for Scientists | Software Carpentry | Fun with Lists | Python | Codecademy | Scipy Lecture Notes | A gallery of interesting IPython Notebooks | Think Python: How to Think Like a Computer Scientist | The Python Graph Gallery | . This might be overwhelming, so I suggest you to follow this: . My advice on learning Python:Don&#39;t set out to &quot;learn Python&quot;. Choose a problem you&#39;re interested in and learn to solve it with Python. . &mdash; Jake VanderPlas (@jakevdp) September 10, 2017 Start by downloading Anaconda, a package manager application that will help you get started with python in all platforms. . Make sure you are acquainted with ipython (interactive python, try it here), and with Jupyter notebook. ​ . I recommend Sublime Text for writing code, and you can install the Anaconda package to it to have a smooth IDE. [not the same anaconda as mentioned above! Yes, it’s confusing, I know.] . . Fitzhugh-Nagumo — Labyrinthine Patterns . Jupyter notebook . Main features: how to make a movie, time-integration methods (semi-spectral and Euler) . . Conway’s Game of Life, acorn initial condition . Jupyter notebook . This is a (slightly) modified version of Glowing Python’s code. I make it available here because it features a few nice things: . how to make a movie using matplotlib.animation | how to write a generator (function with yield) | how to plot a sparce array (spy) | . Main features: matplotlib.animation, yield, with, matplotlib.pyplot.spy . . Least squares fit of nonlinear function . Jupyter notebook . Main features: LaTeX text, scipy.optimize.curve_fit, matplotlib.patches . . Fun with histograms . Jupyter notebook . Main features: np.histogram, plt.hist, plt.bar, plt.barh, gridspec, least squares fit of nonlinear function, plt.hist2d . . Fancy subplot grid . Jupyter notebook . Highly customizable subplot structure. Also, figure contains several axis configurations and labeling options. Main features: gridspec subplots; numpy-compatible heaviside; label, ticks and axis manipulations; log scale . . Streamplot . Jupyter notebook . Streamplot of a two-dimensional linear system, with eigenvectors and nullclines. Python shows LaTeX equations beautifully. Main features: meshgrid, streamplot, contour, legend, LaTeX . . The time dependent Ginzburg-Landau equation . Jupyter notebook . Numerical integration of a parabolic partial differential equation, using finite differences: Euler step to advance time, and a 5-point stencil to approximate the Laplacian. Main features: imshow, colorbar, set_data . . The double pendulum . Jupyter notebook . Numerical integration of the equations of motion of the double pendulum. This time, scipy’s ode itegrator was used. Nice example of how to make a movie. Main features: scipy.integrate.ode, set_data, set_aspect(&#39;equal&#39;), remove plot, movie . . The Hilbert curve . Jupyter notebook . Construction of the Hilbert curve as a Lindenmayer system (L-system). Main features: string operations, movie . . A hysteresis mechanism . Jupyter notebook . Hysteresis mechanism created by the bistability of states. System goes to minimum points u in the energy functional $f=u^4-2u^2+hu$. The parameter $h$ is ramped down and up during this simulation. Main features: sympy analytical calculations, numpy dtypes, movie . . Contour plot . Jupyter notebook . Contour plot with many customizable options. Also, a nice way to truncate a colormap so it gives the color range that you want. Main features: truncate_colormap, contour, contourf (fill), clabel (contour label) . . . Least action principle on the beach . Jupyter notebook . How should ​lifeguard run in order to save a drowning person in minimal time? Answer: by using Snell’s law of refraction! This is a nice example how to use spines (x and y axis form a cross), instead of rectangular figures as usual. Also, “annotations” are used, where things can be labeled with the help of arrows. Main features: spines, matplotlib.patches.Rectangle, annotate . . . This website’s logo . Jupyter notebook . Simple example of how to make a figure without any visible axes. Main features: set_axis_off, fill_between, matplotlib inline plot on Jupyter . . . Bars . Jupyter notebook . Horizontal and vertical bars, with numeric legends. Unicode support. Main features: unicode, bar, barh, grid . . some text here . # random piece of code import numpy as np for i in range(5): print(f&quot;{i**2:e}&quot;) .",
+          "url": "http://localhost:4000/tutorials/python/",
+          "relUrl": "/tutorials/python/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page31": {
+          "title": "$\,\LaTeX$",
+          "content": "Equations . With $ LaTeX$ you can write beautiful equations like . Rμν−12gμν R+gμνΛ=8πGc4TμνR_{ mu nu} - {1 over 2}g_{ mu nu} ,R + g_{ mu nu} Lambda = displaystyle{8 pi G over c^4} T_{ mu nu}Rμν​−21​gμν​R+gμν​Λ=c48πG​Tμν​ or ϕ=1+11+11+⋯=1+52 phi = 1 + cfrac{1}{1+ cfrac{1}{1+ dotsb}}= frac{1+ sqrt{5}}{2}ϕ=1+1+1+⋯1​1​=21+5​​ . Learn more here. Inline equation, $a^2+ sqrt{b} neq 0$ . Presentation . Make beautiful presentations using Beamer! Download a full working example of my favorite template [zip] [overleaf]. Browse the presentation below to get an idea. . Posters . Make beautiful posters with LaTeX. Portrait [zip] [overleaf] Landscape [zip] [overleaf] . . PhD Thesis . This template is based on my PhD thesis, it can make your life easier! . Download [zip] [overleaf]. | Don’t forget to read the file README.txt | Enjoy! | Hebrew . A LaTeX document with Hebrew text. Download .tex source here, and the pdf here. . See below a really practical use of the tools provided above. This is an exercise list in hebrew. Download .tex source here, and the pdf here. .",
+          "url": "http://localhost:4000/tutorials/latex/",
+          "relUrl": "/tutorials/latex/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page32": {
+          "title": "Tutorials",
+          "content": "Tutorials . . Python tutorial . $ LaTeX$ tutorial .",
+          "url": "http://localhost:4000/tutorials/",
+          "relUrl": "/tutorials/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page33": {
+          "title": "",
+          "content": "Research Specialist Wanted! . Important: We’re looking for a part-time research specialist, more details here. . Senior Lecturer Institute of Environmental Sciences   The Hebrew University of Jerusalem . About . I’m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems. Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems. . The common theme between my different research projects is land/ecosystem degradation caused by human activity. . Our research is based on “simple” mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system. Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory. . [Read more on current research projects…] . I love to write code, and I made available on the Tutorials page some working examples in Python and LaTeX. Check it out! . How to find me .   yair.mau@mail.huji.ac.il   +972 8 948 9386   Rehovot Campus, Lubell building, office 19. Map here . Google Scholar Check out my CV . . Samuel Karlin The purpose of models is not to fit the data but to sharpen the questions. .",
+          "url": "http://localhost:4000/",
+          "relUrl": "/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page35": {
+          "title": "",
+          "content": "Senior Lecturer The Institute of Environmental Sciences The Hebrew University of Jerusalem . About . I’m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems. Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems. . The common theme between my different research projects is land/ecosystem degradation caused by human activity. . Our research is based on “simple” mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system. Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory. . [Read more on current research projects…] . I love to write code, and I made available on the Tutorials page some working examples in Python and LaTeX. Check it out! . How to find me .   yair.mau@mail.huji.ac.il   +972 8 948 9386   Rehovot Campus, Lubell building, office 19. Map here . Google Scholar Check out my CV . . Piet Hein Problems worthy   of attack prove their worth   by hitting back. .",
+          "url": "http://localhost:4000/index_old.html",
+          "relUrl": "/index_old.html",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page37": {
+          "title": "Kinematics",
+          "content": "Motivation for studying kinematics . firefighting airplanes in action, dogs jumping into a car, woman walking the wrong way . X and Y movements are independent . #PhysicsFactlet (179)The rate of change of position is velocity.The rate of change of velocity is acceleration.The rate of change of acceleration is jerk.The rate of change of jerk is jounce.The rate of change of jounce is crackle.The rate of change of crackle is pop. . &mdash; Jacopo Bertolotti (@j_bertolotti) October 8, 2019 2d kinematics . Harlem Globetrotter Makes Incredible Trick Shot From Plane Flying 70 MPH . jumping goats . Kevin failed Physics . Yes, Kevin failed physics and math, but he knew how to build a helluva ramp! 🍺 🥴 pic.twitter.com/8rPrtRmCYy . &mdash; 🍺 Hold My Beer 🍺 (@HldMyBeer) August 31, 2021 Galilean relativity . swimming against the current . Mythbusters - Soccer Ball Shot from Truck . https://youtu.be/BLuI118nhzc . Circular motion . Hamster, from https://twitter.com/SJSchauer/status/1186484325451227136?s=09 . Human Loop the Loop with Damien Walters . Ball in a pie pan: Testing Experiment . Beer flipping . 2001: A Space Odyssey . Centripetal force . Many forces can take the role of the centripetal force. . .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/kinematics.html",
+          "relUrl": "/teaching/physics71031/gifs/kinematics.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page38": {
+          "title": "Linear Momentum & Center of Mass",
+          "content": "Collisions . brain during collision . golf ball . Football to the Face 1000x Slower - The Slow Mo Guys . Elastic collisions . failed collision . bullets ricochet off water . periodic billiard collision . Althea Reinhardt’s face save . This is the face save btw pic.twitter.com/nSztPi6Hcq . &mdash; Nooruddean (@BeardedGenius) December 18, 2021 . Inelastic collisions . Apple collision at 90 km/h. . Center of mass . center of mass parabolic trajectory . Josh Imatorbhebhe vertical jump . Internal vs external forces . How to push your pickup truck .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/linear-momentum.html",
+          "relUrl": "/teaching/physics71031/gifs/linear-momentum.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page39": {
+          "title": "Newton's Laws",
+          "content": "Newton’s first law . The fall of the dinosaurs . Trampoline with leaves . At the Kibo ISS module . Rollerblades on a moving table . What is Inertia? . . Newton’s second law . Man with superhuman strength . Inside the ISS . . Whack-a-Stack . Apollo 15 hammer-feather drop . Newton’s third law . Newton cartoon . . Motorcycle kicks car . Friction . Static friction . Static vs. kinetic friction . No friction on inclined plane . Cat fails to jump, not enough friction . Spidergirl .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/newtons-laws.html",
+          "relUrl": "/teaching/physics71031/gifs/newtons-laws.html",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+      ,"page44": {
+          "title": "Units",
+          "content": "Any time you pick up a well shuffled deck, you are almost certainly holding an arrangement of cards that has never before existed and will likely never exist again. $52! approx 10^{68}$. Suppose a new permutation of 52 cards was drawn every second starting from The Big Bang (13.8 billion years ago). You wouldn’t even be close. To count out all 52! permutations you would need $10^{51}$ ages of the universe. . https://twitter.com/InertialObservr/status/1174403655711084544?s=09 . If you worked every single day, making $5000/day, from the time Columbus sailed to America, to the time you are reading this tweet, you would still not be a billionaire. . How much larger/heavier/longer was the Megalodon compared with a great white? . This is the mass damper of the Taipei 101 skyscraper: it has a mass of 728 tons and a diameter of 5.4 meters. It helps stabilize the building in high winds and this is the record movement realized during typhoon Soudelor with 160 km/h winds what is the mass density of this ball? . https://twitter.com/Rainmaker1973/status/1038498046571683840?s=09 . https://www.youtube.com/watch?v=xqELmBNyWfU . orders of magnitude, from . https://twitter.com/Rainmaker1973/status/1125710475378012161 . . .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/units.html",
+          "relUrl": "/teaching/physics71031/gifs/units.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page45": {
+          "title": "Wow",
+          "content": "rope swing record . does the period of a pendulum depend on its mass? . Time-Lapse: Lose Yourself in the Night Sky . fastest response time . The kangaroo rat’s escape response to a snake attack is less than 70 milliseconds and the quickest mammalian startle response. . Selected solar system objects to scale in size, rotation speed and axial tilt . Milky Way and Earth . Milky Way spinning around Earth . Milky Way fixed, earth spinning round . The Milky Way Fly Out . Stefan Payne-Wardenaar . Least action, path of bowling ball minimizes action . A free-falling frame of reference cancels gravity . A free-falling frame of reference cancels gravity 😳! (@benorlin hope you don&#39;t mind if I used your characters and congrats for your new book)#PhysGIF with @geogebra pic.twitter.com/C9OER3f5GD . &mdash; Luca Moroni (@sfera314) September 15, 2019 Mesmerising Mass Sheep Herding . Solar eclipse from space . 150 Ton Hydraulic Guillotine Vs Deck of Cards .",
+          "url": "http://localhost:4000/teaching/physics71031/gifs/wow.html",
+          "relUrl": "/teaching/physics71031/gifs/wow.html",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page49": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "http://localhost:4000/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}

@@ -1,0 +1,35 @@
+I"�<p><img src="https://lh3.googleusercontent.com/G0kNd1cyDL5HT62fqh76h1Kt5kA0p1axYcwuaw8LHylYONFOyLgS_W9M7ZwDm0Xv-AgwjHdDM2HpjGz2akgwOev96So-j5AOS7aDdmUEdguBWhgWsCBkOtUD8rZe9dptkqzgmm5qLsk=w2400" alt="" /></p>
+
+<p>Just like the <a href="https://yairmau.com/markdown/2021/11/12/skewer-hyperboloid.html">hyperboloid of one sheet</a>, the Parabolic Hyperboloid is a ruled surface.
+This means that it can be imagined as the surface one gets by swiping a straight line through space.
+In the image below, we see that each of the skewers is exactly straight, but together thay make this beautiful curved shape.</p>
+
+<p><img src="https://lh3.googleusercontent.com/hQyh_S4xMg0Fapq_g8cTvVGYilSjwoQC2MwhGOQ1aIhFtq_UUdNt1AvwWhLNfmJT0XRLsWeBXGdOpqm4iVhVgyiRsHx6u7GtS38UOcUJYZC7aPu2gANMZvqbO15nEVbQ0v4_BcTqPug=w2400" alt="" /></p>
+
+<p>This project is quite easy to make with skewers, see <a href="https://mathcraft.wonderhowto.com/how-to/make-hyperbolic-paraboloid-using-skewers-0131751/">its instructions here</a>.</p>
+
+<p>The equation that defines the surface of the parabolic hyperboloid is</p>
+
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>z</mi><mo>=</mo><mi>A</mi><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>B</mi><msup><mi>y</mi><mn>2</mn></msup><mo separator="true">,</mo></mrow><annotation encoding="application/x-tex">z = Ax^2 - By^2,</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.04398em;">z</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.9474379999999999em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">A</span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.0585479999999998em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mpunct">,</span></span></span></span></span>
+
+<p>where both $A$ and $B$ are positive numbers.
+<a href="https://nmd.pages.math.illinois.edu/quadrics/hypparab.html">This website</a> allows us to play with the parameters and see how the surface responds.</p>
+
+<p>In my opinion, a static image can’t convey the beauty of this shape, so I made this gif:</p>
+<iframe src="https://giphy.com/embed/bbhNzeQZcSu4sQjyE2" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+
+<p>In 2020, Dillon Berger noted on Twitter that the shape of Pringles is a parabolic hyperboloid:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The reason Pringles fit so nicely in a cylindrical tube is because they&#39;re hyperbolic paraboloids plotted over a circular domain <a href="https://t.co/BUzjPw7e17">pic.twitter.com/BUzjPw7e17</a></p>&mdash; 〈 Berger | Dillon 〉 (@InertialObservr) <a href="https://twitter.com/InertialObservr/status/1229877251258245120?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>The company took notice of this (mildly) viral tweet, and sent Dillon a box full of parabolic hyperboloids 😁.</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/Pringles?ref_src=twsrc%5Etfw">@Pringles</a>, for sending me some of these delicious Hyperbolic Paraboloids! <a href="https://t.co/L3WMgqObPM">pic.twitter.com/L3WMgqObPM</a></p>&mdash; 〈 Berger | Dillon 〉 (@InertialObservr) <a href="https://twitter.com/InertialObservr/status/1234550346292199424?ref_src=twsrc%5Etfw">March 2, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>The lesson here is that it’s good to know your math 😜.</p>
+
+<p><img src="https://lh3.googleusercontent.com/qykd4fNdeqj9NnHqV_V_JTCRXFIHWeS5LNw2IdpqMlChzdZHzGTkf0vk3D7ol8nq6X3-3gct081UNV7W5N9s0WEUbL0CozjsznenQyPRY_3N4D-BZYC3d0i69LWy-K-50wwXDK9QaQ0=w2400" alt="" /></p>
+
+:ET

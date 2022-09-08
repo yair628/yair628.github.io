@@ -1,0 +1,225 @@
+// Override Syntax Highlighting In Minima With the Dracula Theme: https://draculatheme.com/
+// If you wish to override any of this CSS, do so in _sass/minima/custom-styles.css
+
+// colors from here: https://github.com/samme/base16-styles/blob/master/css/base16-tomorrow.css
+// base16-tomorrow
+$base00: #ffffff; // white
+$base01: #e0e0e0; // light gray
+$base02: #d6d6d6; // another light gray
+$base03: #8e908c; // lightish gray
+$base04: #969896; // gray
+$base05: #4d4d4c; // dark gray
+$base06: #282a2e; // very dark gray
+$base07: #1d1f21; // almost black
+$base08: #c82829; // red
+$base09: #f5871f; // orange
+$base0a: #eab700; // yellow
+$base0b: #718c00; // green
+$base0c: #3e999f; // teal
+$base0d: #4271ae; // blue
+$base0e: #8959a8; // purple
+$base0f: #a3685a; // brown
+ 
+$backgroundcolor: #f8f8f8; // defined by yair
+
+$dt-code-cell-background: #f8f8f8; // background yair
+
+.language-python + .language-plaintext {
+    border-left: 1px solid grey;
+    margin-left: 1rem !important;
+}
+
+// ensure dark background for code in markdown
+[class^="language-"]:not(.language-plaintext) pre,
+[class^="language-"]:not(.language-plaintext) code {
+    background-color: $backgroundcolor !important;
+    color: $base05;
+}
+
+.language-python + .language-plaintext code { background-color: white !important; }
+.language-python + .language-plaintext pre  { background-color: white !important; }
+
+// for Jupyter Notebook HTML Code Cells modified from https://www.fast.ai/public/css/hyde.css
+
+.input_area pre, .input_area div {
+    margin-bottom:2rem !important;
+    margin-top:1.5rem !important;
+    padding-bottom:0 !important;
+    padding-top:0 !important;
+    background: $backgroundcolor !important;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Menlo, Monaco, Consolas, "Lucida Console", Roboto, Ubuntu, monospace;
+    border-radius: 5px;
+    font-size: 100%;
+}
+.output_area pre, .output_area div {
+    margin-bottom:1rem !important;
+    margin-top:1rem !important;
+    padding-bottom:0 !important;
+    padding-top:0 !important;
+}
+.input_area pre {
+    border-left: 1px solid lightcoral;
+}
+.output_area pre {
+    border-left: 1px solid grey;
+    margin-left: 1rem !important;
+}
+
+.code_cell table { width: auto; }
+
+/* Dracula Theme v1.2.5
+ *
+ * https://github.com/zenorocha/dracula-theme
+ *
+ * Copyright 2016, All rights reserved
+ *
+ * Code licensed under the MIT license
+ *
+ */
+
+.highlight {
+    background: $backgroundcolor !important;
+    color: $base03 !important;
+    pre, code {
+     background: $backgroundcolor;
+     color: $base03;
+    }    
+
+    .err,
+    .g,
+    .l,
+    .n,
+    .x,
+    .ge,
+    .gr,
+    .gh,
+    .gi,
+    .gp,
+    .gs,
+    .gu,
+    .gt,
+    .ld,
+    .no,
+    .nd,
+    .pi,
+    .ni,
+    .ne,
+    .nn,
+    .nx,
+    .py,
+    .w {
+      background-color: $backgroundcolor !important;
+    }
+    
+    .p {
+         font-weight: bold;
+ }
+  
+    .ge {
+      text-decoration: underline;
+    }
+  
+    .bp {
+      font-style: italic;
+    }
+
+    .nb,
+    .nl,
+    .nv,
+    .vc,
+    .vg,
+    .vi,
+    .vm {
+      font-style: italic;
+    }
+  
+    // coloring rules from base16-pygments:
+    // https://github.com/mohd-akram/base16-pygments/blob/master/pygments_base16/base16-tomorrow.py
+    // https://github.com/mohd-akram/base16-pygments/blob/master/templates/default.mustache
+    // find all pygment tokens here:
+    // https://pygments.org/docs/tokens/
+    // list of two-letter codes: https://pygments-doc.readthedocs.io/en/latest/_modules/pygments/token.html
+    // tomorrow for sublime, rules: https://github.com/theymaybecoders/sublime-tomorrow-theme/blob/master/Tomorrow.sublime-color-scheme
+
+//$base00: #ffffff; // white
+//$base01: #e0e0e0; // light gray
+//$base02: #d6d6d6; // another light gray
+//$base03: #8e908c; // lightish gray
+//$base04: #969896; // gray
+//$base05: #4d4d4c; // dark gray
+//$base06: #282a2e; // very dark gray
+//$base07: #1d1f21; // almost black
+//$base08: #c82829; // red
+//$base09: #f5871f; // orange
+//$base0a: #eab700; // yellow
+//$base0b: #718c00; // green
+//$base0c: #3e999f; // teal
+//$base0d: #4271ae; // blue
+//$base0e: #8959a8; // purple
+//$base0f: #a3685a; // brown
+
+    .Text {color: $base05;}
+    .err {color: $base08;} //,  # .Error
+    .c {color: $base03;} //,  # .Comment
+    .cp {color: $base0f;} //,  # .Comment.Preproc
+    .cpf {color: $base0b;} //,  # .Comment.PreprocFile
+    .k {color: $base0e;} //,  # .Keyword
+    .kt {color: $base08;} //,  # .Keyword.Type
+    .na {color: $base0d;} //,  # .Name.Attribute
+    .nb {color: $base0a;} // .Name.Builtin
+    .bp {color: $base09;} //,  # .Name.Builtin.Pseudo
+    .nc {color: $base0a;} //,  # .Name.Class
+    .no  {color: $base09;} //,  # .Name.Constant
+    .nd  {color: $base09;} //,  # .Name.Decorator
+    .nf  {color: $base0d;} //,  # .Name.Function
+    .nn  {color: $base0d;} //,  # .Name.Namespace
+    .nt  {color: $base0e;} //,  # .Name.Tag
+    .nv  {color: $base0d;} //,  # .Name.Variable
+    .vi {color: $base08;} //,  # .Name.Variable.Instance
+    .m {color: $base09;} //,  # .Number
+    .o {color: $base0c;} //,  # .Operator
+    .ow  {color: $base0c;} //,  # .Operator.Word
+    .l  {color: $base0b;} //,  # .Literal
+    .s  {color: $base0b;} //,  # .String
+    .si  {color: $base0f;} //,  # .String.Interpol
+    .sr  {color: $base0c;} //,  # .String.Regex
+    .ss  {color: $base09;} //,  # .String.Symbol
+    .kn {color: $base0e;} // .Keyword.Namespace
+    //.String.Doc  {color: $base0b;} // String.Doc
+    .sd  {color: $base05;} // String.Doc
+    .String.Affix {color: $base0e;} // String.Affix
+    .m, .mf, .mh, .mi, .mo {color: $base09;}
+    .se {color: $base09;} // .literal.string.escape
+    
+    // this is just a test
+    //.nb  {color: $base08;} //,  # .Name.Builtin
+    // .p  {color: $base08;} //,  # .Punctuation
+    //.vm  {color: $base08;} //,  # .Punctuation
+    .nsdsfa,
+    .na,
+    .nb,
+    .nc,
+    .no,
+    .nd,
+    .ni,
+    .ne,
+    .nf,
+    .nl,
+    .nn,
+    .nx,
+    .py,
+    .bp,
+    .fm,
+    .vc,
+    .vg,
+    .vi,
+    .vm,
+    .nt,
+    .nv {
+      color: $base08asdfasdfas;
+    }
+
+}
+

@@ -1,0 +1,13 @@
+I"ö
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2016optimal</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1016/j.advwatres.2016.02.014}</span><span class="p">,</span>
+  <span class="na">year</span>  <span class="p">=</span> <span class="s">{2016}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Elsevier {BV}}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{91}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{37--45}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Yair Mau and Amilcare Porporato}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Optimal control solutions to sodic soil reclamation}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Advances in Water Resources}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

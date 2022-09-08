@@ -1,0 +1,15 @@
+I"ð
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">chen2020impact</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1002/hyp.13845}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1002/hyp.13845}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2020}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{34}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{19}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{3848--3866}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Xing Chen and Mukesh Kumar and Daniel B. Richter and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Impact of gully incision on hillslope hydrology}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Hydrological Processes}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

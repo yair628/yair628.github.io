@@ -1,0 +1,33 @@
+I"�<p><img src="/archive/temp/poster-agu2021.png" alt="" /></p>
+
+<div class="flash flash-warn">
+    <!-- <svg class="octicon octicon-zap" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.561 1.5a.016.016 0 00-.01.004L3.286 8.571A.25.25 0 003.462 9H6.75a.75.75 0 01.694 1.034l-1.713 4.188 6.982-6.793A.25.25 0 0012.538 7H9.25a.75.75 0 01-.683-1.06l2.008-4.418.003-.006a.02.02 0 00-.004-.009.02.02 0 00-.006-.006L10.56 1.5zM9.504.43a1.516 1.516 0 012.437 1.713L10.415 5.5h2.123c1.57 0 2.346 1.909 1.22 3.004l-7.34 7.142a1.25 1.25 0 01-.871.354h-.302a1.25 1.25 0 01-1.157-1.723L5.633 10.5H3.462c-1.57 0-2.346-1.909-1.22-3.004L9.503.429z"></path></svg> -->
+    <i class="fas fa-exclamation-triangle fa-fw fa-lg svv" aria-hidden="true"></i>
+    <strong>Important: </strong><p>Download the <a href="/archive/temp/poster-agu2021.pdf">full poster here <i class="fas fa-file-pdf" aria-hidden="true"></i></a> (~10Mb)<br />
+Send me an email if you have any questions: <code class="language-python highlighter-rouge"><span class="n">yair</span><span class="p">.</span><span class="n">mau</span><span class="o">@</span><span class="n">mail</span><span class="p">.</span><span class="n">huji</span><span class="p">.</span><span class="n">ac</span><span class="p">.</span><span class="n">il</span></code></p>
+
+</div>
+
+<p>The poster mentions 4 papers we have worked on lately:</p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Isaac Kramer, Yuval Bayer, and <strong>Yair Mau</strong>. The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Soil Hydraulic
+Conductivity . <em>(under review, WRR)</em>, 2021.</p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Taiwo Adeyemo, Isaac Kramer, Guy J. Levy, and <strong>Yair Mau</strong>. Salinity and sodicity can cause hysteresis in soil hydraulic conductivity. <em>arXiv</em>, 2021.<br />
+<a href="../archive/papers/adeyemo-2021-Salinity and sodicity can cause hysteresis in soil hydraulic conductivity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> 
+<a href="https://arxiv.org/abs/2109.09111" target="_blank">(under review, Geoderma) <img src="../archive/temp/arxiv-icon.png" alt="image" style="width:25px; display: inline; vertical-align:sub;" /></a></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Isaac Kramer, Yuval Bayer, Taiwo Adeyemo, and <strong>Yair Mau</strong>. Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework . <em>HESS</em>, 2021.<br />
+doi: <a href="https://doi.org/10.5194/hess-25-1993-2021"><code class="language-python highlighter-rouge"><span class="mf">10.5194</span><span class="o">/</span><span class="n">hess</span><span class="o">-</span><span class="mi">25</span><span class="o">-</span><span class="mi">1993</span><span class="o">-</span><span class="mi">2021</span></code></a><br />
+<a href="/archive/papers/kramer-2020-Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity- a modeling framework.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> 
+<a href="https://github.com/yairmau/hysteresis-python" target="_blank">GitHub <i class="fab fa-github" aria-hidden="true"></i></a></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Isaac Kramer and <strong>Yair Mau</strong>. Soil degradation risks assessed by the SOTE model for salinity and sodicity. <em>Water Resources Research</em>, 2020.<br />
+doi: <a href="https://doi.org/10.1029/2020WR027456"><code class="language-python highlighter-rouge"><span class="mf">10.1029</span><span class="o">/</span><span class="mi">2020</span><span class="n">WR027456</span></code></a><br />
+<a href="/archive/papers/kramer-2020-Soil degradation risks assessed by the SOTE model for salinity and sodicity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> 
+<a href="https://github.com/isaackramer/SOTE" target="_blank">GitHub <i class="fab fa-github" aria-hidden="true"></i></a></p>
+:ET

@@ -1,0 +1,37 @@
+I"�<p><strong>Senior Lecturer</strong><br />
+<strong>The Institute of Environmental Sciences</strong><br />
+<strong>The Hebrew University of Jerusalem</strong></p>
+
+<h2 id="about">About</h2>
+<p>I’m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
+Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems.</p>
+
+<p>The common theme between my different research projects is land/ecosystem degradation caused by human activity.</p>
+
+<p>Our research is based on “simple” mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system.
+Some of the tools we use in the modeling of environmental questions come from dynamical systems, statistical physics and optimal control theory.</p>
+
+<p>[<a href="/research/">Read more on current research projects…</a>]</p>
+
+<p>I love to write code, and I made available on the <a href="/tutorials/">Tutorials</a> page some working examples in Python and LaTeX. Check it out!</p>
+
+<h2 id="how-to-find-me">How to find me</h2>
+<p><i class="fas fa-envelope fa-fw fa-lg svv" aria-hidden="true"></i> <span> </span> yair.mau@mail.huji.ac.il <br />
+<!-- <i class="material-icons svv">phone</i> -->
+<i class="fas fa-phone fa-fw fa-lg svv fa-flip-horizontal" aria-hidden="true"></i>
+<span> </span> +972 8 948 9386<br />
+<i class="fas fa-map-marked-alt fa-fw fa-lg svv"></i> <span> </span> Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a></p>
+
+<p><button class="my_button_small" onclick="window.open('https://scholar.google.com/citations?user=kiKmEQMAAAAJ', '_blank');">Google Scholar</button>
+<button class="my_button_small" onclick="window.open('/cv_yairmau.pdf', '_blank');">Check out my CV</button></p>
+
+<hr class="my_hr" />
+
+<p><br />
+<strong>Piet Hein</strong><br />
+<i class="fas fa-quote-left fa-4x fa-pull-left fa-border" aria-hidden="true"></i>
+Problems worthy<br />
+  of attack<br />
+prove their worth<br />
+  by hitting back.</p>
+:ET

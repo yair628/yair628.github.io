@@ -1,0 +1,41 @@
+I"<h2 id="course-goals">Course goals</h2>
+
+<p>The goal of this course is to give a first hands-on experience with experimental design data collection, analysis and reporting.
+We want students to creatively engage with their projects, finding by themselves solutions to the challenges they encounter.
+The role of the teaching staff will be to consult and advise, not spoon-feed solutions.</p>
+
+<p>The main values we would like to promote: <strong>curiosity, independence, creativity, and a can-do attitude.</strong></p>
+
+<h2 id="guiding-questions-and-description">Guiding questions and Description</h2>
+
+<p>This course deals with the design of a simple experiment focusing on data collection and analysis. The guiding questions throughout this course are:</p>
+<ul>
+  <li>What is my research question?</li>
+  <li>What data is needed?</li>
+  <li>How will data be collected?</li>
+  <li>How will data be analyzed?</li>
+  <li>How will data be reported?</li>
+</ul>
+
+<p>Throughout the course, students will critically engage with each of these questions, and as a case study, will build an experiment to monitor the flow of water in the soil-plant-atmosphere continuum, first a joint experiment for the whole class and then a private project which will be selected from a list of topics. The list of projects covers several disciplines, including biological and microbiological science, as well as soil and water sciences. The culmination of this course will be a final project, in which students will devise an experiment and apply the acquired tools to a subject of their choosing, and submit a report on it. See below some of the past projects developed in our course.</p>
+
+<p>The monitoring and control systems to be build are based on the ESP32, a versatile (and cheap!) microcontroller. The ESP32 is similar to the Arduino, with the advantage that it has inbuilt Wi-Fi and Bluetooth features.</p>
+
+<h2 id="2020-2021-projects">2020-2021 Projects</h2>
+
+<ul>
+  <li>
+    <p>Yedidya and Yehuda: <a href="https://github.com/deedeeharris/agritech2021">GitHub page <i class="fab fa-github fa-fw svv" aria-hidden="true"></i></a>, <a href="https://www.instructables.com/Measuring-Hydraulic-Properties-of-Soil-With-ESP32/">Instructables  <span class="iconify svv" data-icon="simple-icons:instructables" data-width="25"></span></a></p>
+  </li>
+  <li>
+    <p>Adar and Gabriel: <a href="https://github.com/adarsul/2021-AgroTech-Project">GitHub page <i class="fab fa-github fa-fw svv" aria-hidden="true"></i></a></p>
+  </li>
+  <li>
+    <p>Shani and Nir: <a href="https://github.com/shani-g/agrotech">GitHub page <i class="fab fa-github fa-fw svv" aria-hidden="true"></i></a></p>
+  </li>
+  <li>
+    <p>Liron and Yuval: <a href="https://github.com/Yuval1peled/AgroTech_LAb">GitHub page <i class="fab fa-github fa-fw svv" aria-hidden="true"></i></a></p>
+  </li>
+</ul>
+
+:ET

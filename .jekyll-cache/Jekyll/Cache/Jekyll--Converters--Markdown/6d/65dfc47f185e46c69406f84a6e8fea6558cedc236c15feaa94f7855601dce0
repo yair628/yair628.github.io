@@ -1,0 +1,14 @@
+I"Â
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">porporato2015ecohydrological</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1002/2015wr017289}</span><span class="p">,</span>
+  <span class="na">year</span>  <span class="p">=</span> <span class="s">{2015}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley-Blackwell}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Amilcare Porporato and Xue Feng and Stefano Manzoni and Yair Mau and Anthony J. Parolari and Giulia Vico}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Ecohydrological modeling in agroecosystems: Examples and challenges}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Water Resources Research}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{51}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{7}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{5081--5099}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

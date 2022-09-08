@@ -1,0 +1,468 @@
+I"%�<header class="post-header">
+    <h1 class="post-title" style="text-align:center"><i class="fas fa-file-alt fa-fw fa-lg svv"></i>Publications</h1>
+</header>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Isaac Kramer, Yuval Bayer, and Yair Mau. The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Saturated Soil Hydraulic Conductivity . <em>Water Resources Research</em>, 2022.<br />
+doi: <a href="https://doi.org/10.1029/2021WR031307"><code class="language-python highlighter-rouge"><span class="mf">10.1029</span><span class="o">/</span><span class="mi">2021</span><span class="n">WR031307</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_kramer2022sustainability',                                      'bib_kramer2022sustainability_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_kramer2022sustainability_icon"></i>
+</a> 
+<a href="/archive/papers/kramer-2022-The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Saturated Soil Hydraulic Conductivity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> </p>
+
+<div id="bib_kramer2022sustainability" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kramer2022sustainability</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1029/2021WR031307}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1029/2021WR031307}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Isaac Kramer and Yuval Bayer and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{The Sustainability of Treated Wastewater Irrigation: The Impact of Hysteresis on Saturated Soil Hydraulic Conductivity}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Water Resources Research}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Taiwo Adeyemo, Isaac Kramer, Guy J. Levy, and Yair Mau. Salinity and sodicity can cause hysteresis in soil hydraulic conductivity. <em>Geoderma</em>, 2022.<br />
+doi: <a href="https://doi.org/10.1016/j.geoderma.2022.115765"><code class="language-python highlighter-rouge"><span class="mf">10.1016</span><span class="o">/</span><span class="n">j</span><span class="p">.</span><span class="n">geoderma</span><span class="p">.</span><span class="mf">2022.115765</span></code></a> <br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_adeyemo2022salinity',                                      'bib_adeyemo2022salinity_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_adeyemo2022salinity_icon"></i>
+</a> 
+<a href="../archive/papers/adeyemo-2022-Salinity and sodicity can cause hysteresis in soil hydraulic conductivity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> </p>
+
+<div id="bib_adeyemo2022salinity" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@misc</span><span class="p">{</span><span class="nl">adeyemo2022salinity</span><span class="p">,</span>
+      <span class="na">title</span><span class="p">=</span><span class="s">{Salinity and sodicity can cause hysteresis in soil hydraulic conductivity}</span><span class="p">,</span>
+      <span class="na">author</span><span class="p">=</span><span class="s">{Taiwo Adeyemo and Isaac Kramer and Guy J. Levy and Yair Mau}</span><span class="p">,</span>
+      <span class="na">year</span><span class="p">=</span><span class="s">{2022}</span><span class="p">,</span>
+      <span class="na">journal</span> <span class="p">=</span> <span class="s">{Geoderma}</span>
+     <span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Yuval R. Zelnik, Yair Mau, Moshe Shachak, and Ehud Meron. High-integrity human intervention in ecosystems: Tracking self-organization modes. <em>PLOS Computational Biology</em>, 2021.<br />
+doi: <a href="https://doi.org/10.1371/journal.pcbi.1009427"><code class="language-python highlighter-rouge"><span class="mf">10.1371</span><span class="o">/</span><span class="n">journal</span><span class="p">.</span><span class="n">pcbi</span><span class="p">.</span><span class="mi">1009427</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_zelnik2021high',                                      'bib_zelnik2021high_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_zelnik2021high_icon"></i>
+</a> 
+<a href="/archive/papers/zelnik-2021-High-integrity human intervention in ecosystems- Tracking self-organization modes.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_zelnik2021high" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">zelnik2021high</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1371/journal.pcbi.1009427}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1371/journal.pcbi.1009427}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Yuval R. Zelnik and Yair Mau and Moshe Shachak and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{High-integrity human intervention in ecosystems: Tracking self-organization modes}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{PLOS Computational Biology}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{17}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{9}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{e1009427}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+ Isaac Kramer, Yuval Bayer, Taiwo Adeyemo, and Yair Mau. Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework . <em>HESS</em>, 2021.<br />
+doi: <a href="https://doi.org/10.5194/hess-25-1993-2021"><code class="language-python highlighter-rouge"><span class="mf">10.5194</span><span class="o">/</span><span class="n">hess</span><span class="o">-</span><span class="mi">25</span><span class="o">-</span><span class="mi">1993</span><span class="o">-</span><span class="mi">2021</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_kramer2020hysteresis',                                      'bib_kramer2020hysteresis_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_kramer2020hysteresis_icon"></i>
+</a> 
+<a href="/archive/papers/kramer-2020-Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity- a modeling framework.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> 
+<a href="https://github.com/yairmau/hysteresis-python" target="_blank">GitHub <i class="fab fa-github" aria-hidden="true"></i></a></p>
+
+<div id="bib_kramer2020hysteresis" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kramer2020hysteresis</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.5194/hess-25-1993-2021}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.5194/hess-25-1993-2021}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Isaac Kramer and Yuval Bayer and Taiwo Adeyemo and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Hydrology and Earth System Sciences}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{25}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{4}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{1993--2008}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Isaac Kramer and Yair Mau. Soil degradation risks assessed by the SOTE model for salinity and sodicity. <em>Water Resources Research</em>, 2020.<br />
+doi: <a href="https://doi.org/10.1029/2020WR027456"><code class="language-python highlighter-rouge"><span class="mf">10.1029</span><span class="o">/</span><span class="mi">2020</span><span class="n">WR027456</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_kramer2020soil',                                      'bib_kramer2020soil_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_kramer2020soil_icon"></i>
+</a> 
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_kramer2020soil',                                      'bib_kramer2020soil_icon')">
+<a href="/archive/papers/kramer-2020-Soil degradation risks assessed by the SOTE model for salinity and sodicity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a> 
+<a href="https://github.com/isaackramer/SOTE" target="_blank">GitHub <i class="fab fa-github" aria-hidden="true"></i></a></a></p>
+
+<div id="bib_kramer2020soil" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kramer2020soil</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1029/2020WR027456}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1029/2020WR027456}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2020}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{56}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{10}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Isaac Kramer and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Soil degradation risks assessed by the SOTE model for salinity and sodicity}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Water Resources Research}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Xing Chen, Mukesh Kumar, Daniel de B. Richter, and Yair Mau. Impact of gully incision on hillslope hydrology. <em>Hydrological Processes</em>, 2020.<br />
+doi: <a href="https://doi.org/10.1002/hyp.13845"><code class="language-python highlighter-rouge"><span class="mf">10.1002</span><span class="o">/</span><span class="n">hyp</span><span class="p">.</span><span class="mi">13845</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_chen2020impact',                                      'bib_chen2020impact_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_chen2020impact_icon"></i>
+</a> 
+<a href="/archive/papers/chen-2020-Impact of gully incision on hillslope hydrology.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_chen2020impact" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">chen2020impact</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1002/hyp.13845}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1002/hyp.13845}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2020}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{34}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{19}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{3848--3866}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Xing Chen and Mukesh Kumar and Daniel B. Richter and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Impact of gully incision on hillslope hydrology}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Hydrological Processes}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Avigail Kaner, Yakir Preisler, José M. Grünzweig, and Yair Mau. Internal water storage buffering maintains plant function under drought as described by a general hydraulic model. <em>bioRxiv</em>, 2020.<br />
+doi: <a href="https://doi.org/10.1101/2020.02.11.943563"><code class="language-python highlighter-rouge"><span class="mf">10.1101</span><span class="o">/</span><span class="mf">2020.02</span><span class="p">.</span><span class="mf">11.943563</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_kaner2020internal',                                      'bib_kaner2020internal_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_kaner2020internal_icon"></i>
+</a> 
+<a href="/archive/papers/kaner-2020-Internal water storage buffering maintains plant function under drought as described by a general hydraulic model.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_kaner2020internal" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kaner2020internal</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1101/2020.02.11.943563}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1101/2020.02.11.943563}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2020}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Cold Spring Harbor Laboratory}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Avigail Kaner and Yakir Preisler and Jos{\'{e}} M Gr\"{u}nzweig and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Internal water storage buffering maintains plant function under drought as described by a general hydraulic model}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau and Amilcare Porporato. Optimal control solutions to sodic soil reclamation. <em>Advances in Water Resources</em>, 91:37–45, 2016.<br />
+doi: <a href="http://dx.doi.org/10.1016/j.advwatres.2016.02.014"><code class="language-python highlighter-rouge"><span class="mf">10.1016</span><span class="o">/</span><span class="n">j</span><span class="p">.</span><span class="n">advwatres</span><span class="p">.</span><span class="mf">2016.02</span><span class="p">.</span><span class="mi">014</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2016optimal',                                      'bib_mau2016optimal_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2016optimal_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2016-Optimal control solutions to sodic soil reclamation.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2016optimal" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2016optimal</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1016/j.advwatres.2016.02.014}</span><span class="p">,</span>
+  <span class="na">year</span>  <span class="p">=</span> <span class="s">{2016}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Elsevier {BV}}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{91}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{37--45}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Yair Mau and Amilcare Porporato}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Optimal control solutions to sodic soil reclamation}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Advances in Water Resources}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Amilcare Porporato, Xue Feng, Stefano Manzoni, Yair Mau, Anthony J. Parolari, and Giulia Vico. Ecohydrological modeling in agroecosystems: Examples and challenges. <em>Water Resources Research</em>, 51(7):5081–5099, 2015.<br />
+doi: <a href="http://dx.doi.org/10.1002/2015WR017289"><code class="language-python highlighter-rouge"><span class="mf">10.1002</span><span class="o">/</span><span class="mi">2015</span><span class="n">WR017289</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_porporato2015ecohydrological',                                      'bib_porporato2015ecohydrological_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_porporato2015ecohydrological_icon"></i>
+</a> 
+<a href="/archive/papers/porporato-2015-Ecohydrological modeling in agroecosystems-Examples and challenges.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_porporato2015ecohydrological" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">porporato2015ecohydrological</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1002/2015wr017289}</span><span class="p">,</span>
+  <span class="na">year</span>  <span class="p">=</span> <span class="s">{2015}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Wiley-Blackwell}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Amilcare Porporato and Xue Feng and Stefano Manzoni and Yair Mau and Anthony J. Parolari and Giulia Vico}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Ecohydrological modeling in agroecosystems: Examples and challenges}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Water Resources Research}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{51}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{7}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{5081--5099}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau and Amilcare Porporato. A dynamical system approach to soil salinity and sodicity. <em>Advances in Water Resources</em>, 83:68–76, 2015.<br />
+doi: <a href="http://dx.doi.org/10.1016/j.advwatres.2015.05.010"><code class="language-python highlighter-rouge"><span class="mf">10.1016</span><span class="o">/</span><span class="n">j</span><span class="p">.</span><span class="n">advwatres</span><span class="p">.</span><span class="mf">2015.05</span><span class="p">.</span><span class="mi">010</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2015dynamical',                                      'bib_mau2015dynamical_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2015dynamical_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2015-A dynamical system approach to soil salinity and sodicity.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2015dynamical" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2015dynamical</span><span class="p">,</span>
+  <span class="na">year</span>  <span class="p">=</span> <span class="s">{2015}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Elsevier {BV}}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{83}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{68--76}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Yair Mau and Amilcare Porporato}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{A dynamical system approach to soil salinity and sodicity}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Advances in Water Resources}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1016/j.advwatres.2015.05.010}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau, Lev Haim, and Ehud Meron. Reversing desertification as a spatial resonance problem. <em>Physical Review E</em>, 91(1):012903, 2015.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevE.91.012903"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">PhysRevE</span><span class="p">.</span><span class="mf">91.012903</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2015reversing',                                      'bib_mau2015reversing_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2015reversing_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2015-Reversing desertification as a spatial resonance problem.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2015reversing" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2015reversing</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Reversing desertification as a spatial resonance problem}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Lev Haim and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{91}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{1}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{012903}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2015}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.91.012903}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau, Xue Feng, and Amilcare Porporato. Multiplicative jump processes and applications to leaching of salt and contaminants in the soil. <em>Physical Review E</em>, 90(5):052128, 2014.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevE.90.052128"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">PhysRevE</span><span class="p">.</span><span class="mf">90.052128</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2014multiplicative',                                      'bib_mau2014multiplicative_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2014multiplicative_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2014-Multiplicative jump processes and applications to leaching of salt and contaminants in the soil.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2014multiplicative" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2014multiplicative</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Multiplicative jump processes and applications to leaching of salt and contaminants in the soil}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Xue Feng and Amilcare Porporato}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{90}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{5}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{052128}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2014}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.90.052128}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Lev Haim, Yair Mau, and Ehud Meron. Spatial forcing of pattern-forming systems that lack inversion symmetry. <em>Physical Review E</em>, 90(2):022904, 2014.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevE.90.022904"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">PhysRevE</span><span class="p">.</span><span class="mf">90.022904</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_haim2014spatial',                                      'bib_haim2014spatial_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_haim2014spatial_icon"></i>
+</a> 
+<a href="/archive/papers/haim-2014-Spatial forcing of pattern-forming systems that lack inversion symmetry.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_haim2014spatial" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">haim2014spatial</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Spatial forcing of pattern-forming systems that lack inversion symmetry}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Lev Haim and Yair Mau and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{90}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{2}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{022904}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2014}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.90.022904}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau, Lev Haim, Aric Hagberg, and Ehud Meron. Competing resonances in spatially forced pattern-forming systems. <em>Physical Review E</em>, 88(3): 032917, 2013.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevE.88.032917"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">PhysRevE</span><span class="p">.</span><span class="mf">88.032917</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2013competing',                                      'bib_mau2013competing_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2013competing_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2013-Competing resonances in spatially forced pattern-forming systems.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2013competing" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2013competing</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Competing resonances in spatially forced pattern-forming systems}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Lev Haim and Aric Hagberg and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{88}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{3}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{032917}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2013}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.88.032917}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau, Aric Hagberg, and Ehud Meron. Spatial periodic forcing can displace patterns it is intended to control. <em>Physical Review Letters</em>, 109 (3):034102, 2012.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevLett.109.034102"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">PhysRevLett</span><span class="p">.</span><span class="mf">109.034102</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2012spatial',                                      'bib_mau2012spatial_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2012spatial_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2012-Spatial periodic forcing can displace patterns it is intended to control.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2012spatial" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2012spatial</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Spatial periodic forcing can displace patterns it is intended to control}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Aric Hagberg and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review Letters}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{109}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{3}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{034102}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2012}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physrevlett.109.034102}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p><br /></p>
+
+<p><i class="far fa-file fa-fw fa-lg svv"></i>
+Yair Mau, Aric Hagberg, and Ehud Meron. Dual-mode spiral vortices. <em>Physical Review E</em>, 80(6):065203, 2009.<br />
+doi: <a href="http://dx.doi.org/10.1103/PhysRevE.80.065203"><code class="language-python highlighter-rouge"><span class="mf">10.1103</span><span class="o">/</span><span class="n">physreve</span><span class="p">.</span><span class="mf">80.065203</span></code></a><br />
+<a href="javascript:void(0);" onclick="toggle_icon_show_content('bib_mau2009dual',                                      'bib_mau2009dual_icon')">
+   BibTeX <i class="fas fa-plus-square" id="bib_mau2009dual_icon"></i>
+</a> 
+<a href="/archive/papers/mau-2009-Dual-mode spiral vortices.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<div id="bib_mau2009dual" style="display:none; font-family:monospace;">
+
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2009dual</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Dual-mode spiral vortices}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Aric Hagberg and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{80}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{6}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{065203}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2009}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.80.065203}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+</div>
+
+<p>Tip: find the BibTeX of any publication by copying its doi here: <a href="http://www.doi2bib.org/#/doi]">doi2bib.org</a>.</p>
+
+<h2 id="theses">Theses</h2>
+<h3 id="phd-thesis">PhD Thesis</h3>
+<center><iframe width="300" height="300" src="https://www.youtube.com/embed/-82IhHkb1rc?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe></center>
+<p><strong>Title:</strong> <em>“Pattern Formation in Spatially Forced Systems: Application to Vegetation Restoration”</em><br />
+<strong>Advisor:</strong> <a href="http://in.bgu.ac.il/en/bidr/SIDEER/DSEEP/Ehud_Meron/Pages/default.aspx" target="_blank">Prof. Ehud Meron.</a><br />
+The Physics Department, The Ben-Gurion University of the Negev, Israel.<br />
+<a href="/archive/papers/mau2013-phd_final_version.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a></p>
+
+<h3 id="masters-thesis">Master’s Thesis</h3>
+<center><iframe width="300" height="300" src="https://www.youtube.com/embed/aE8mYeUUTZY?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe></center>
+<p><strong>Title:</strong> <em>“Localized Spatial Strutures in Non-Equilibrium Systems”</em><br />
+<strong>Advisor:</strong> <a href="http://in.bgu.ac.il/en/bidr/SIDEER/DSEEP/Ehud_Meron/Pages/default.aspx" target="_blank">Prof. Ehud Meron.</a><br />
+The Physics Department, The Ben-Gurion University of the Negev, Israel.<br />
+<a href="/archive/papers/msc_thesis_yair11.pdf" target="_blank">PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a><br />
+<a href="/publications/masters" target="_blank">Watch pretty cool videos on this research!!</a></p>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+function toggleDiv(divId) {
+    var clicked = $(this);
+    // $(document.activeElement).find('i').toggleClass('fa-plus-square fa-minus-square')
+    $("#"+divId).find('i').toggleClass('fa-plus-square fa-minus-square')
+    $("#"+divId).slideToggle('slow');
+}
+</script>
+
+<script type="text/javascript">
+function toggle_icon_show_content(Show_Hide_Id,Icon_Id) {
+    $("#"+Icon_Id).toggleClass('fa-plus-square fa-minus-square')
+    $("#"+Show_Hide_Id).slideToggle('slow');
+}
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+:ET

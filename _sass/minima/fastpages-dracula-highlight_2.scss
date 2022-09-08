@@ -1,0 +1,320 @@
+// Override Syntax Highlighting In Minima With the Dracula Theme: https://draculatheme.com/
+// If you wish to override any of this CSS, do so in _sass/minima/custom-styles.css
+
+
+// cheat sheet: https://gist.github.com/flinhong/f37f0271bcada97b383bf9f81d8942e7
+$tomorrow-aqua: #3e999f;
+$tomorrow-purple: #8959a8;
+$tomorrow-yellow: #eab700;
+$tomorrow-orange: #f5871f;
+$tomorrow-green: #718c00;
+$tomorrow-red: #c82829;
+$tomorrow-comment: #8e908c;
+$dt-gray-dark: #282a36;  // Background
+
+
+$base00: #ffffff;
+$base01: #e0e0e0;
+$base02: #d6d6d6;
+$base03: #8e908c;
+$base04: #969896;
+$base05: #4d4d4c;
+$base06: #282a2e;
+$base07: #1d1f21;
+$base08: #c82829;
+$base09: #f5871f;
+$base0a: #eab700;
+$base0b: #718c00;
+$base0c: #3e999f;
+$base0d: #4271ae;
+$base0e: #8959a8;
+$base0f: #a3685a;
+
+
+// $dt-code-cell-background: #323443;
+$dt-code-cell-background: #eee; // background yair
+
+$dt-light-gray-comment: #8e908c; // comment yair
+
+$dt-gray: #44475a;       // Current Line & Selection
+
+// $dt-gray-light: #f8f8f2; // Foreground
+$dt-gray-light: #4d4d4c; // regular writing yair
+
+$dt-blue: #6272a4;       // Comment
+$dt-cyan: #8be9fd;
+$dt-green: #50fa7b;
+$dt-orange: #ffb86c;
+
+// $dt-pink: #ff79c6;
+$dt-pink: #8959a8; // purple yair
+
+//$dt-purple: #bd93f9;
+$dt-purple: #f5871f; // orange yair
+
+$dt-red: #ff5555;
+$dt-yellow: #f1fa8c;
+
+// $dt-green-light: rgb(172, 229, 145);
+$dt-green-light: #4271ae; blue yair
+
+.language-python + .language-plaintext {
+    border-left: 1px solid grey;
+    margin-left: 1rem !important;
+}
+
+// ensure dark background for code in markdown
+[class^="language-"]:not(.language-plaintext) pre,
+[class^="language-"]:not(.language-plaintext) code {
+    background-color: $dt-code-cell-background !important;
+    color: $dt-gray-light;
+}
+
+.language-python + .language-plaintext code { background-color: white !important; }
+.language-python + .language-plaintext pre  { background-color: white !important; }
+
+// for Jupyter Notebook HTML Code Cells modified from https://www.fast.ai/public/css/hyde.css
+
+.input_area pre, .input_area div {
+    margin-bottom:2rem !important;
+    margin-top:1.5rem !important;
+    padding-bottom:0 !important;
+    padding-top:0 !important;
+    background: #323443 !important;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Menlo, Monaco, Consolas, "Lucida Console", Roboto, Ubuntu, monospace;
+    border-radius: 5px;
+    font-size: 100%;
+}
+.output_area pre, .output_area div {
+    margin-bottom:1rem !important;
+    margin-top:1rem !important;
+    padding-bottom:0 !important;
+    padding-top:0 !important;
+}
+.input_area pre {
+    border-left: 1px solid lightcoral;
+}
+.output_area pre {
+    border-left: 1px solid grey;
+    margin-left: 1rem !important;
+}
+
+.code_cell table { width: auto; }
+
+/* Dracula Theme v1.2.5
+ *
+ * https://github.com/zenorocha/dracula-theme
+ *
+ * Copyright 2016, All rights reserved
+ *
+ * Code licensed under the MIT license
+ *
+ */
+
+.highlight {
+    background: $dt-code-cell-background !important;
+    color: $dt-gray-light !important;
+    pre, code {
+     background: $dt-code-cell-background;
+     color: $dt-gray-light;
+    }
+
+    .literal.string  // .s: 'normal string'
+     {
+      color: $tomorrow-green;
+    }
+
+    .literal.string.escape // .se: \
+     {
+      color: $tomorrow-orange;
+    }    
+
+    .hll,
+    //.s,
+    .sa,
+    .sb,
+    .ss,
+    .dl,
+    .sd,
+    .s2,
+    //.se,
+    .sh,
+    .si,
+    .sx,
+    .sc,
+    .s1,
+    .sr {
+         color: $dt-light-gray-comment;
+         //color: #0000ff;
+    }
+  
+    .generic.output { // .go
+      color: $dt-gray;
+    }
+    
+    //.n
+    // {
+    //  color: $tomorrow-orange;
+    //}
+    
+    .name.builtin.pseudo // .bp: None 
+     {
+      color: $tomorrow-orange;
+    }
+    .err,
+    .g,
+    .l,
+    .n,
+    .x,
+    .ge,
+    .gr,
+    .gh,
+    .gi,
+    .gp,
+    .gs,
+    .gu,
+    .gt,
+    .ld,
+    .no,
+    .nd,
+    .pi,
+    .ni,
+    .ne,
+    .nn, // package name
+    .nx,
+    .py,
+    .w {
+      color: $dt-gray-light;
+      background-color: $dt-code-cell-background !important;
+    }
+    
+    .p {
+         font-weight: bold;
+         color: $dt-gray-light;
+ }
+  
+    .ge {
+      text-decoration: underline;
+    }
+  
+    .bp {
+      font-style: italic;
+    }
+
+    .comment, //.c,
+    .ch,
+    .cm,
+    .cpf,
+    .c1,
+    .cs {
+      color: $tomorrow-comment;
+    }
+    
+
+    .kd,
+    .kt,
+    .nb,
+    .nl,
+    .nv,
+    .vc,
+    .vg,
+    .vi,
+    .vm {
+      color: $dt-cyan;
+    }
+  
+    .kd,
+    .nb,
+    .nl,
+    .nv,
+    .vc,
+    .vg,
+    .vi,
+    .vm {
+      font-style: italic;
+    }
+  
+    .name.class // .nc
+     {
+      color: $tomorrow-yellow;
+    }
+    .fm,
+    .na,
+    .nf
+     {
+      color: $dt-green-light;
+    }
+  
+    .operator // .o
+     {
+      color: $tomorrow-aqua;
+    }
+    
+    .operator.word // .ow
+     {
+      color: $tomorrow-aqua;
+    }
+    .k,
+    .cp,
+    .kc,
+    .kn,
+    .kp,
+    .kr,
+    .nt {
+      color: $dt-pink;
+    }
+ 
+    .kc {
+         color: $dt-green-light;   
+    }
+  
+    .m,
+    .mb,
+    .mf,
+    .mh,
+    .mi,
+    .mo,
+    .il {
+      color: $dt-purple;
+    }
+  
+    .gd {
+      color: $dt-red;
+    }
+    
+    .variable, .support.other.variable, .string.other.link, .string.regexp, .entity.name.tag, .entity.other.attribute-name, .meta.tag, .declaration.tag {
+      color: #ff0000;
+    }
+
+    .Text {color: $base05;}
+
+    .Error {color: $base08;} //,  # .err
+
+    .Comment {color: $base03;} //,  # .c
+    .Comment.Preproc {color: $base0f;} //,  # .cp
+    .Comment.PreprocFile {color: $base0b;} //,  # .cpf
+    .Keyword {color: $base0e;} //,  # .k
+    .Keyword.Type {color: $base08;} //,  # .kt
+    .Name.Attribute {color: $base0d;} //,  # .na
+    .Name.Builtin {color: $base0d;} //,  # .nb
+    .Name.Builtin.Pseudo {color: $base08;} //,  # .bp
+    .Name.Class {color: $base0d;} //,  # .nc
+    .Name.Constant {color: $base09;} //,  # .no
+    .Name.Decorator {color: $base09;} //,  # .nd
+    .Name.Function {color: $base0d;} //,  # .nf
+    .Name.Namespace {color: $base0d;} //,  # .nn
+    .Name.Tag {color: $base0e;} //,  # .nt
+    .Name.Variable {color: $base0d;} //,  # .nv
+    .Name.Variable.Instance {color: $base08;} //,  # .vi
+    .Number {color: $base09;} //,  # .m
+    .Operator {color: $base0c;} //,  # .o
+    .Operator.Word {color: $base0e;} //,  # .ow
+    .Literal {color: $base0b;} //,  # .l
+    .String {color: $base0b;} //,  # .s
+    .String.Interpol {color: $base0f;} //,  # .si
+    .String.Regex {color: $base0c;} //,  # .sr
+    .String.Symbol {color: $base09;} //,  # .ss
+
+}

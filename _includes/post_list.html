@@ -1,0 +1,12 @@
+<h3>
+    <i class="fas fa-feather-alt fa-fw fa-lg svv"></i>
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+</h3>
+{%- if site.show_description and post.description  -%}
+<p class="post-meta-description"> > {{ post.description }}</p>
+{%- endif -%}
+<div class="my-post-date">
+{{ post.date | date: date_format }}
+</div>    

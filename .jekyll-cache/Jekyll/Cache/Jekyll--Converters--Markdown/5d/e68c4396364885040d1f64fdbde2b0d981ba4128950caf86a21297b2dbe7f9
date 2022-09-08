@@ -1,0 +1,14 @@
+I"É
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">kramer2020hysteresis</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.5194/hess-25-1993-2021}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://doi.org/10.5194/hess-25-1993-2021}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Isaac Kramer and Yuval Bayer and Taiwo Adeyemo and Yair Mau}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity: a modeling framework}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Hydrology and Earth System Sciences}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{25}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{4}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{1993--2008}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

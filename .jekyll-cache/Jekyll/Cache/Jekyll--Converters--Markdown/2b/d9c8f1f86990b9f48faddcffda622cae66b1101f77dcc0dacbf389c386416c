@@ -1,0 +1,14 @@
+I"v
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">mau2013competing</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Competing resonances in spatially forced pattern-forming systems}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Yair Mau and Lev Haim and Aric Hagberg and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{88}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{3}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{032917}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2013}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.88.032917}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

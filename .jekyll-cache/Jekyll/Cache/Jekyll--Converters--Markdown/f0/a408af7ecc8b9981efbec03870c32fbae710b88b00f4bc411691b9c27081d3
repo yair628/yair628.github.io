@@ -1,0 +1,9 @@
+I"B
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@misc</span><span class="p">{</span><span class="nl">adeyemo2022salinity</span><span class="p">,</span>
+      <span class="na">title</span><span class="p">=</span><span class="s">{Salinity and sodicity can cause hysteresis in soil hydraulic conductivity}</span><span class="p">,</span>
+      <span class="na">author</span><span class="p">=</span><span class="s">{Taiwo Adeyemo and Isaac Kramer and Guy J. Levy and Yair Mau}</span><span class="p">,</span>
+      <span class="na">year</span><span class="p">=</span><span class="s">{2022}</span><span class="p">,</span>
+      <span class="na">journal</span> <span class="p">=</span> <span class="s">{Geoderma}</span>
+     <span class="p">}</span>
+</code></pre></div></div>
+:ET

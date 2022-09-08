@@ -1,0 +1,14 @@
+I"k
+<div class="language-bib highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">haim2014spatial</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{Spatial forcing of pattern-forming systems that lack inversion symmetry}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Lev Haim and Yair Mau and Ehud Meron}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{Physical Review E}</span><span class="p">,</span>
+  <span class="na">volume</span><span class="p">=</span><span class="s">{90}</span><span class="p">,</span>
+  <span class="na">number</span><span class="p">=</span><span class="s">{2}</span><span class="p">,</span>
+  <span class="na">pages</span><span class="p">=</span><span class="s">{022904}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2014}</span><span class="p">,</span>
+  <span class="na">publisher</span><span class="p">=</span><span class="s">{APS}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1103/physreve.90.022904}</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

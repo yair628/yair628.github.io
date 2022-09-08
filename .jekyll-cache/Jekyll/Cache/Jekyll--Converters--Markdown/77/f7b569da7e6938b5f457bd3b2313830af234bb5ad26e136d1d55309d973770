@@ -1,0 +1,20 @@
+I"é<!-- <header class="post-header">
+    <h1 class="post-title" style="text-align:center"><span class="iconify" data-icon="whh:solarsystem" data-inline="false"></span>
+Time Series Analysis</h1>
+</header> -->
+
+<h2 id="-in-construction"><span class="iconify" data-icon="healthicons:factory-worker"></span> In Construction</h2>
+
+<p>This course does not exist yet, but I already started uploading the course material, itâ€™s all very rough.<br />
+Enjoy :)</p>
+
+<h3 id="basic-time-series-analysis">Basic time series analysis</h3>
+
+<p><button class="my_button_small" onclick="window.open('https://yairmau.github.io/website/jupyter/2020/03/01/basic-tsa.html', '_blank');">Lecture</button>
+Graphs, NaN, Missing data, Outliers, resampling, filling missing data, smoothing (moving average, SavGol).<br />
+Data for this lecture: <a href="https://github.com/yairmau/website/tree/master/archive/timeseries/test_elad.csv">file1</a>, <a href="https://github.com/yairmau/website/tree/master/archive/timeseries/test_peleg.csv">file2</a>.</p>
+
+<h3 id="seasonal-decomposition">Seasonal decomposition</h3>
+
+<p><button class="my_button_small" onclick="window.open('https://yairmau.github.io/website/jupyter/2020/03/01/seasonal-decomposition.html', '_blank');">Lecture</button></p>
+:ET
